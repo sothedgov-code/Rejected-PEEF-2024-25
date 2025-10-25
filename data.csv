@@ -1,0 +1,1326 @@
+Serial,Student Name,Father Name,Address,Remarks,Marks,Class
+1,Abeera Shah,Syed Muhammad Tilbar Shah,Bannu,Out of Merit,929(1200),FSc
+2,Muhammad Hamad,Musafar,Mardan,Out of Merit,1081,FSc
+3,Muhammad Zeeshan,Shah Khalid,Nowshera,Out of Merit,1051,FSc
+4,Muhammad Jalal,Mirza Ali,Mardan,Out of Merit,1015,DAE
+5,Shive Narayan,Krishan Lal,Mardan,Out of Merit,946,DBA
+6,Mehreen Bikhtiar,Bakhtiar Ali,Swabi,Out of Merit,939,FSc
+7,Jawairia,Saeed Ullah Khan,Peshawar,Out of Merit,936,FSc
+8,Muhammad Adil,Nisar,Mardan,Out of Merit,936,FSc
+9,Muskan Wahab,Noor Wahab,Tank,Out of Merit,963,FSc
+10,Obaid Ullah,Saaz Gul,Upper Dir,Out of Merit,935,FSc
+11,Mustafa Sohaib,Fazal Ali,Kabal Swat,Out of Merit,935,FSc
+12,Abdul Malik Khan,Ziatullah Khan,Peshawar,Out of Merit,931,FSc
+13,Saif Ullah Khan,Khan Sherin,Lakki Marwat,Out of Merit,930,FSc
+14,Abbas Khan,Bahar uddin,Mardan,Out of Merit,929,FA
+15,Bushra Bibi,Subhan Ullah,Swabi,Out of Merit,924,FSc
+16,Salman Raheen,Muhammad Raheem Shah,Upper Chitral,Out of Merit,924,FSc
+17,Alham Bibi,Ameer Ullah Khan,Buner,Out of Merit,923,Matric
+18,Shaista Ghulam,Ghulam Muhammad,Mardan,Out of Merit,922,FSc
+19,Aneela Rahman ,Ghani ur Rahman,Swabi,Out of Merit,921,FSc
+20,Shukria,Nishat Ahmad,Charsadda,Out of Merit,953,Matric
+21,Manahil Farooq,Ghulam Farooq,Peshawar,Out of Merit,952,Matric
+22,Shafiq ur Rehman ,Wali Khan,Shangla,Out of Merit,950,FSc
+23,Marwa,Zia Jan,Charsadda,Out of Merit,949,Matric
+24,Hina,Muhammad Ayaz,Charsadda,Out of Merit,949,FSc
+25,Laiba Gul,Ihsan Ullah,Charsadda,Out of Merit,947,FSc
+26,Muhammad Hamad Shafi,Saif Ullah Khan,Lakki Marwat,Out of Merit,946,Matric
+27,Abdul Ahmad,Ikhtiar Ali,Swabi,Private,983,Matric
+28,Haseeba,Mukaram Khan,Mardan,Improper Attestation,960,FSc
+29,Sawaera,Ghulam Muhammad,Charsadda,Application not Attested,976,Matric
+30,Sehrish Yousafzai,Sardar Hussain,Mardan,Affidavit deficiency,951,Matric
+31,Fawad Ali,Khan zamin,Mardan,Irrelevant attestation ,989,FSc
+32,Muhammad Luqman,Syed Jan,Mardan,Irrelevant attestation ,1006,FSc
+33,Iftikhar Ahmad,Nisar Ahmad,Mardan,Irrelevant attestation ,1030,FA
+34,Aiman Malik,Sohail Ahmad,Charsadda,Private,1032,FSc
+35,Naveed Ullah,Sher Muhammad,Mardan,Irrelevant attestation ,1038,FSc
+36,Fazullah,Muhammad Sultan,Mardan,Out of Merit,890,FA
+37,Sundas Gul,Qadir Rehman,Bannu,Out of Merit,854,FSc
+38,Muhammad Daniyal Kareem,Abdul Kareem Jan Marwat,Lakki Marwat,Out of Merit,885,FSc
+39,Noor,Fazal Iqbal Khan,Bannu,Out of Merit,909,FA
+40,Ishfaq Ahmad,Faiz Ullah,Upper Chitral,Out of Merit,923(1200),HSSC
+41,Sohail Ahmad,Atta Ullah,Shangla,Out of Merit,887,FSc
+42,Atif Raheem,Suleman Khan,Bannu,Out of Merit,901,FSc
+43,Muskan Anum,Inam Ullah,Lakki Marwat,Out of Merit,906,FSc
+44,Areesha Khan,Imtiaz Khan,Swabi,Out of Merit,900,FSc
+45,Mahnoor Shahid,Shahid Ishfaq,Swabi,Out of Merit,916,FA
+46,Sabawoon Bibi,Bashir Khan,Charsadda,Out of Merit,907,FSc
+47,Memoona Hameed,Abdul Hameed Khan,Lakki Marwat,Out of Merit,903,FSc
+48,Hajira Khan,Zahir Ullah Khan,Charsadda,Out of Merit,909,FSc
+49,Shanza Noor,Abdul Gafar,Mardan,Out of Merit,905,FA
+50,Muhammad Ibrahim,Mir Akbar,Mardan,Irrelevant attestation ,971,FSc
+51,Siyad Iqbal,Nawaz Khan,Mardan,Irrelevant attestation ,966,FSc
+52,Areeba Fanoosh,Istifanosh Mian,swat,Out of Merit,945,FSc
+53,Raheena,Masti Khan,Lakki Marwat,Out of Merit,761,FSc
+54,Muhammad Ismail Khan,Hazrat Hussain,Peshawar,Out of Merit,745,FSc
+55,Sadaqat Begum,Buzarg Muhammad,Dir Upper,Out of Merit,863,FSc
+56,Hafsa Bibi,Farid Ullah,Peshawar,Out of Merit,911,FSc
+57,Mehmood,Ameer Shah,Lakki Marwat,Out of Merit,847,FSc
+58,Nayab Bibi,Fazal Akbar,Peshawar,Out of Merit,864,FA
+59,Hafsa  ,Muhammad Hassan,Lakki Marwat,Out of Merit,777,FSc
+60,Maryam,Misal Khan,Lakki Marwat,Out of Merit,862,FSc
+61,Khansa Bibi,Faqir Bahadur,swabi,Out of Merit,816,FA
+62,Ateeqa Taj,Khan Taj,Swabi,Out of Merit,815,FSC
+63,Sapna Zulfiqar,Zulfiqar Ali,Swabi,Out of Merit,877,FSC
+64,Marwa Wisal ,Wisal Khan,Swabi,Out of Merit,821,FSC
+65,Zikra Hussain,Sardar Hussain,swabi,Out of Merit,844,FSC
+66,Mahnoor Tariq,M. Tariq,Swabi,Out of Merit,716,FSC
+67,Hammad Kaleem,Kaleem Ullah Khan,Lakki Marwat,Out of Merit,748,FSC
+68,Humaira Bib,Yar Muhammad,Charsadda,Out of Merit,824,FSC
+69,Simab Bibi,Abdur Rahim Khan,Lakki Marwat,Out of Merit,777,FSC
+70,Marwa bibi,Amjad Ali,Charsadda,Out of Merit,849,FSC
+71,Haseena Gul,Sher Ali Khan,Mardan,Out of Merit,868,FSC
+72,Sadia Tila,Tila Muhammad,Charsadda,Out of Merit,842,FSC
+73,Liaba Murtaza,Murtaza Khan,Charsadda,Out of Merit,803,FSC
+74,Safia Ghulam,Ghulam Muhammad,Charsadda,Out of Merit incomplete doucuments,931,HSSC
+75,Naheeda Qureshi,Nasib Nawaz Khan,Bannu,Out of Merit,868,FSc
+76,Laiba Latif,Muhammad Latif,Lakki Marwat,Out of Merit,862,FSc
+77,Kainat Bibi,Ghulam Haider,Lakki Marwat,Out of Merit,809,FSc
+78,Iqra,Abdullah Shah,Lakki Marwat,Out of Merit,838,FA
+79,Haseena Bibi,Akheya Jan,Lakki Marwat,Out of Merit,849,HSSC
+80,Sawaira Shamshad,Shamshad Ali,Charsadda,Our of Merit,869,FA
+81,Adil Rehman,Gul Rehman,Bannu,Out of Merit,750,FSc
+82,Waseem Ullah,Afsar Ullah Khan,Bannu,Out of Merit,752,FSc
+83,Malaika Ameen,Muhammad Ameen,Lakki Marwat,Out of Merit,892,FSc
+84,Wajid ur Rehman ,Bakht Rehman,Mardan,Out of Merit,860,FSc
+85,Lubna Gufran,Gufran Ullah,Mardan,Our of Merit,879,FSc
+86,Areesha Farooq,Farooq Shah,Swabi,Out of Merit,799,FSc
+87,Aiman Khan,Ashraf Khan,Mardan,Out of Merit,886,FA
+88,Tahir Ahmad,Sartaj Khan,Lakki Marwat,Out of Merit,747,FA
+89,Mahnoor ,Farman ud Din,Mardan,Out of Merit,826,FA
+90,Muhammad Suleman,Lal Zada,Mardan,Out of Merit,878,FA
+91,Ahmad Ali,Shoukat Ali,Mardan,Out of Merit,853,Matric
+92,Mahnoor Hush,Khushdil Khan,Mardan,Out of Merit,886,FA
+93,Naseem Ullah,Shah Gul,Mardan,Out of Merit,866,FSc
+94,Inam Ullah,Aurang Zeb,Nowshera,Out of Merit,788,FSc
+95,Ihsan Ullah,Muhammad Hussain,Mardan,Out of Merit,850,FSc
+96,Laiba Nigar,Hair Gul,Mardan,Out of Merit,808,FA
+97,Abbas Khan,Zakir Ullah,Mardan,Out of Merit,843,FA
+98,Kiran Tariq,Muhammad Tariq,Mardan,Out of Merit,869,FSc
+99,Yousra Shah,Farooq,Mardan,Out of Merit,867,Matric
+100,Safia Bibi,Umar Khitab,Mardan,out of Merit,790,FA
+101,Ihtisham Hussain,Parvez Hussain,Mardan,Out of Merit,836,FA
+102,Umair Ali,Majeed Gul,Mardan,Out of Merit,826,FSc
+103,Hameed Ullah,Sultan Zeb,Mardan,Out of Merit,877,FSc
+104,Samia Bibi,Farid Khan,Lakki Marwat,Out of Merit,821,FSc
+105,Laiba Bibi,Ghulam Qadir Khan,Lakki Marwat,Out of Merit,728,FSC
+106,Nayab,Muhammad Ghulam,Lakki Marwat,Out of Merit,728,FSC
+107,Zahir Ullah,Rahamdil Khan,Lakki Marwat,Out of Merit,842,FSC
+108,Komal Bibi,Habib Ullah,Mardan,Out of Merit,898,FSC
+109,Ahmad Ghafoor,Abdul Ghafoor,Mansehra,Received on 27-2-2025 as after due date & incompletee 2023 Private,1015,FSC
+110,Malaika Gul,Asmat Ullah Khan,Lakki Marwat,2023,998,Matric
+111,Muhammad Anas,Amjad Islam,Lund Khwarh,Irrelevant attestation ,1019,Matric
+112,Farah Gul,Zahoor Islam,Nowshera,incompletee Information contacts,1019,Matric
+113,Malaika Bibi,Khan Shad,Mardan,Private,1024,Matric
+114,Mansoor Ahmad,Mashooq,Charsadda,Improper Attestation,1029,Matric
+115,Tariq Shah ,Mukamil Shah,Mardan,Improper Attestation,1032,Matric
+116,Muhammad Zahid,Jan Muhammad,Lakki Marwat,No Contacts and Current Institution,1035,Matric
+117,Abdussalam,Muammad Luqman,Nowshera,Irrelevant attestation ,1035,Matric
+118,Salman Khan,Abdur Rasheed,Mardan,Irrelevant Attestion,1036,Matric
+119,Hizbullah,Ata Ullah,Shangla,Domicile & Form-B deficiency,1039,Matric
+120,Anees Khan,Gul Hayat,Mardan,Improper Attestation,1048,Matric
+121,Sabir Ahmad,Abdur Rasheed,Mardan,Improper Attestation,1051,Matric
+122,Adil Khan,Khani Zaman,Mardan,Improper Attestation,1053,Matric
+123,Zahoor Ahmad,Muhammad Iqbal,Shangla,Affidavit Improper,1068,Matric
+124,Nayab Gohar,Gohar Zaman,Charsadda,Application incompletee,1071,Matric
+125,Noorjehan Afridi,Lal Mat Khan,Peshawar,Domicile Khyber & CNIC Peshawar,3112(4400),BS Zoology
+126,Muhammad Wajid ,Muhammad Sajid,Peshawar,incompletee documents & out of merts,941,FSC
+127,Muhammad Sadiq,Umar Ayaz,Lakki Marwat,out of Merits ,865,Matric
+128,Maria Gul,Gul Badsha,Mardan,out of Merits ,918,Matric
+129,Hansa Bibi,Said Muhmood khan,Charsadda,incompletee application,979,Matric
+130,Malik Muhammad Saad,Pasand gul,Khyber,incompletee doucuments,0,Nil
+131,Saddiqa Hafiz,Hafiz Ullah,Peshawar,incompletee doucuments,0,Nil
+132,Zaid Khattak,Ishtiaq-ur-rehman,Nowshera,out of Merits ,904,FA
+133,Owais Ahmad,Tariq Ahmad,Peshawar,out of merits &incompletee doucments,686,FSc
+134,Hansa Tariq,Tariq Ahmad,Peshawar,incompletee doucuments,1024,FSC
+135,Nazifa Gul,Asmat Ullah Khan,Lakki Marwat,out of merits,970,Matric
+136,Sadaf Imtiaz,Imtiaz Ahmad,Peshawar,incompletee doucuments,0,NIl
+137,Habiba ,Ata Ullah,Charsadda,out of merits,893,Matric
+138,Museera,Jaffar Khan,Charsadda,out of merits,890,Matric
+139,Mahreen,Ali Hazrat,Peshawar,out of merits,881,Matric
+140,Muneeba,Raham dad,Charsadda,out of merits,879,Matric
+141,Sahreen javed,javed Iqbal,Lakki Marwat,out of merits,875,Matric
+142,Tooba Rahman,Muhammad taneem ur Rehman,Mardan,out of merits,870,Matric
+143,Muskan Bibi,Siraj,Charsadda,out of merits,859,Matric
+144,Sara ,Lal Said ,Charsadda,out of merits,854,Matric
+145,Shahnaz,Imranullah,Charsadda,out of merits,852,Matric
+146,Tahira Bibi,Soorat Khan,Tank,out of merits,850,Matric
+147,Bakhtawar Jalal,Jalal Gul,Peshawar,out of merits,823,Matric
+148,Kashmala Noor,Noor-uddin,Peshawar,out of merits,814,Matric
+149,Iqra,Zafeer gul ,Peshawar,out of merits,802,Matric
+150,Inayat Ullah,Muhammad sultan,Mardan,Out of merits,818,Matric
+151,sudais Ahmad,Muhammad Naeem,Nowshera,out of merits,819,Matric
+152,Hussain Ahmad,Muhammad Naeem,Nowshera,out of merits,899,Matric
+153,Safia Naz,Umar Qiaz Khan,Bannu,Out of merits,790,matric
+154,Hina,Abdurrauf,Buner,out of merits,739,matric
+155,Haseena,Anwar Khan,Lakki Marwat,out  of merits,837,Matric
+156,Husna Bibi ,Liaqat Ali ,Bajaur,out of merits,835,Matric
+157,Nayab,Muhammad Hassan,Lakki Marwat,out of merits,820,Matric
+158,Khadija,Abdul Rahim,Lakki Marwat,out of meits,892,matric
+159,Maria Bibi,Tahir Zaman,Tank,out of merits,888,Matric
+160,Mehak Rameen,M. Nawaz khan,Tank,out of merit,899,matric
+161,Muhammad Abubakar wali,Wali Muhammad,Lakki Marwat,out merits ,737,Matric
+162,Shumaila ,Asmat Gul,Lakki Marwat,Out of Merit,853,Matric
+163,Sayed Muqayyed Hussain,Sayed Noor Sayed,Orakzai,Received after due date,2922(4200),BS in SE
+164,Malaika Sami,Sami Ullah Khan,Lakki Marwat,Private,957,Matric
+165,Shah Fahad,Shah Rozam Khan,Batagram,2022 student & Private,949,HSSC
+166,Muhammad Siraj,Nafeed Ullah,Bannu,SSC in progress,462,SSC
+167,Ihsan Ullah,Shah Muhammad Khan,D.I Khan,Private Domicile & Affidavit deficiency,1090,SSC
+168,Malaika Tariq,Tariq Shah,Charsadda,Private Ex Student 2023 Compart etc,913,HSSC
+169,Hanifa Bibi,Safdar Zaman,Swabi,Improper Affidavit,883,HSSC
+170,Nimra Bibi,Hamza Khan,Swabi,Private Improper Affidavit,829,HSSC
+171,Hamim Ullah,Muhammad Tamaz,Batagram,"Photo, Form-B deficiency, DMC not visible, Private",911,HSSC
+172,Aariqa Manahil Farooq,Muhammad Farooq,Lakki Marwat,Private,882,SSC
+173,Zukifl-ur-Rahman,Rashid ur Rahman,Chitral,Improper Affidavit,970,SSC
+174,Asim Khan,Rafa Khan,Tank,"No affidavit, No DMC",837,HSSC
+175,Sabir Ullah,Abdul Majed,South Waziristan,No Affidavit,987,SSC
+176,Amjad ur Rahman,Zahid ur Rahman,Upper Chitral,Improper Affidavit,1064,SSC
+177,Aleena Mehreen,Mehar Khan,D.I Khan,no affidavit,925,SSC
+178,Warisha Kifayat,Kifayat Ullah,Bannu,Private,831,SSC
+179,Safna Umer,Umer Jan,Bannu,Private,819,SSC
+180,Safina Musharaf,Musharaf Khan,Bannu,No Affidavit,836,SSC
+181,Safna Faqir,Faqir Zada,Dir Upper,"No Affidavit, No CNIC (Father)",946,SSC
+182,Rafi Ullah,Muhammad Ismail,Shangla,"HSSC in progress, improper affidavit",403,HSSC
+183,Muhammad Salman,Samil Khan,Charsadda,"No Domicile, private",812,HSSC
+184,Khanzeb,Jehan Zeb,Peshawar,"HSSC in progress, improper affidavit",869,SSC
+185,Hafiz Muhammad Ibrahim,Sher Afzal,Mohmand,"Private, No affidavit",966,HSSC
+186,Mian Zubair Ahmad,Mian Mula Jan,Peshawar,"Private, No affidavit, Domicile, CNIC",970,SSC
+187,Noman Khan,Sher Bahadar,Buner,"Improver, Improper Affidavit, Private",960,HSSC
+188,Ihsan ul Haq,Bacha Zada,Buner,"Private, Domicile, Affidavit",750,HSSC
+189,Habeeb Ullah,Muhammad Ali,Shangla,"Improper Affidavit, Domicile, CNIC",953,HSSC
+190,Sajad Ali,Mian Badshah,Swat,"Ex-student 2023, compart",990,HSSC
+191,Jawad Latif,Gul Latif,Buner,"Improper Affidavit, Domicile, CNIC",1022,HSSC
+192,Ishaq,Gul Muhammad,Kohat,"No Affidavit, Domicile, Form-B",971,HSSC
+193,Muhammad Riaz,Muzaffar Khan,Kohat,"Affidavit, Domicile, Form-B deficiency",844,SSC
+194,Awais Ramzan ,Abdul Raziq,Kohat,"Private, Affidavit, Form-B deficiency",854,SSC
+195,Muhammad Bilal,Abdul Rasheed,Kohat,"Affidavit, Domicile deficiency",902,SSC
+196,Muhammad Muneer,Guli Rehman,Kohat,"No Affidavit, Private",898,SSC
+197,Safi Ullah,Abdullah Khan,Kohat,"Private, Affidavit, Domicile deficiency",848,SSC
+198,Tayyab,Manzoor Ahmad,Kohat,"Private, Affidavit, Domicile deficiency",875,SSC
+199,Zeenas,Asad Danial,Kohat,"Affidavit, Domicile, Special Quota documents",770,SSC
+200,Muhammad Kashif,Firdous Khan,Kohat,"Private, Lower 60%, other enclosure",689,SSC
+201,Muhammad Asim,Mir Ahmad Khan,Kohat,No enclosure,856,SSC
+202,Muhammad Rehan,Muhammad Abid,Kohat,"Private, No affidavit, Domicile etc.",858,SSC
+203,Zulqarnain,Hameed Ullah Khan,Kohat,"Affidavit, Domicile, Special Quota documents",925,SSC
+204,Waseeb Ullah,Jan Muhammad,Kohat,"Private, No affidavit, CNIC, Domicile etc.",938,SSC
+205,Muhammad Kamran,Shahid ur Rehman,Kohat,"Private, Affidavit etc deficiency",1014,SSC
+206,Muhammad Hashim ,Shahid ur Rehman,Kohat,"Private, Affidavit etc deficiency",1030,SSC
+207,Muhammad Waleed,Sajjad Ahmad,Kohat,"Photo, Affidavit deficiency, Private",883,SSC
+208,Zubaid Ullah,Khaista Meen Shah,Kohat,"Private, No Affidavit etc deficiency",1042,SSC
+209,Abu Huraira,Nazim Khan,Kohat,"Private, Domicile, Affidavit deficiency",909,SSC
+210,Reshma Noor,Noor ul Wahab,Mardan,No Affidavit,849,HSSC
+211,Muhammad Nadeem,Umar Ali Khan,Bannu,Private,905,FSC
+212,Amjad Salar,Shaheed ullah khan,Bannu,Lower 60%,691,FA
+213,Shaid ullah,Rehmat Ullah,Lakki Marwat,out of merits,795,FA
+214,Rahat Ullah Khan,Ain Ullah Khan,Bannu,out of merits,759,Matric
+215,Samia Bibi,Zahir Shah,Nowshera,out of merts,821,FA
+216,Ibad Ullah,Saeed Ullah Khan,Shangla,out of merits,829,SSC
+217,Ijaz ul Haq,Mir Wali Khan,sawabi,out of merits,863,SSC
+218,Sumbal Bibi,Muhkamin Khan,Charsadda,out of merits,854,SSC
+219,M. Amin Zeb,Aurang Zaib ,Lakki Marwat,out of merits,871,SSC
+220,Nadir Khan,Mashoor Khan,Bannu,out of merits,846,SSC
+221,Zia Ullah,Muzaffar Khan,Lakki Marwat,out of merits,879,SSC
+222,Muhammad Zahid,Ihsan Ullah,Lakki Marwat,out of merits,927,SSC
+223,Taj Muhammad,Bashir Ahmad,Lakki Marwat,out of merits,821,Matric
+224,Muhammad Ahmad,Khan Gull,Lakki Marwat,out of merits,824,matric
+225,RaKhman Ullah,Ramzan khan,Lakki Marwat,out of merits,908,Matric
+226,Iqra Imran,Muhammad yousaf Khan,Lakki Marwat,out of merits,840,matric
+227,Iqra Gul,Gulhanuddin,lower Dir,out of merits,842,FSC
+228,Muhammad Rizwan,Dawood Khan,Mansehra,out of merits,882,FSC
+229,Maryam Saeed,Saeed Ullah Khan,Mardan,out of merits,848,FSC
+230,Hafsa Inam,Inam Ullah,Lakki Marwat,out of merits,877,Matric
+231,Muhammad Junaid,Muhammad Sadiq,Lakki Marwat,out of merits,908,Matric
+232,Laiba Amir Khan,Amir Khan,Charsadda,out of merits,956,Matric
+233,Tayyeba,Qayyum Jan,Charsadda,out of merits,886,Matric
+234,Warisha Wali,Muhammad Wali,Charsadda,out of merits,874,Matric
+235,Mahrukh Bibi,Hidayat Hussain,Charsadda,out of merits,886,matric
+236,Omama,Saleem jan,Charsadda,out of merits,817,Matric
+237,Liaba Khan,Qadir khan,Charsadda,private ,1058,matric
+238,Zuhra Gull,Muhammad Arshad Khan,Charsadda,out of merits,840,Matric
+239,Romaisa ,Qasim Khan,Charsadda,out of merits,786,matric
+240,Farishta Bibi,Rashid Iqbal,Charsadda,out of merits,839,matric
+241,sadiqa jalil,Abdul Jalil,Charsadda,out of  merits,824,matric
+242,Rahila Jalil ,Abdul Jalil,Charsadda,out of merits,756,Matric
+243,Marwa,Abdul Wahid,Charsadda,out of merits,879,Matric
+244,Maheen Ali,Farhad Ali,Charsadda,out of merits,791,Matric
+245,Khizar Hayat,Noor Wahab,Charsadda,out of merits,828,Matric
+246,Haider Ali,Sardar Usman,Shangla,out of merits,813,Matric
+247,Amir Khan,Suliman,Mardan,out of merits,836,Matric
+248,M. Sameer Khan,Adil Shah,Mardan,out of merits,917,Matric
+249,Muhammad Talha,Zewar khan,Mardan,out of merits ,960,Matric
+250,Muhammad Ahamd,Muhammad Ibraheem,Mardan,out of merits,825,Matric
+251,Waqar Khan,Said Khan,Mardan,out of merit,956,Matric
+252,Haseen Ullah,Ihsan Ullah,Mardan,out of merit,930,Matric
+253,Aziz Ullah,Rahmat Ullah Khan,Lakki Marwat,out of merit,820,HSSC
+254,Haseena Zarshad,Zarshad Khan,Peshawar,out of merit,819,HSSC
+255,Aiman Bibi,Akheya Khan,Lakki Marwat,Out of Merit,760,SSC
+256,Sulaiman Khan,Zait Ullah,Charsadda,Out of Merit,860,SSC
+257,Muhammad Adnan,Zahid ur Rahman,Mardan,Out of Merit,960,SSC
+258,Atta Ullah,Habib Ullah,Mardan,Out of Merit,879,SSC
+259,Ahmad Hussain,Wajid Hussain,Mardan,Out of Merit,906,SSC
+260,Nouman Ahmad,Umar Bacha,Mardan,Out of Merit,924,SSC
+261,Mujeeb ur Rehman,Muhammad Suleman,Mardan,Out of Merit,948,SSC
+262,Muhammad Mashal Khan,Fayaz Khan,Mardan,Out of Merit,954,SSC
+263,Muhammad Zakariya Khan,Farzand Ali,Mardan,Out of Merit,815,SSC
+264,Waheed Khan,Tajamul Khan,Mardan,Out of Merit,941,SSC
+265,Kashif Khan,Bakht Zada,Mardan,Out of Merit,880,SSC
+266,Muhammad Tariq,Said Wali Khan,Mardan,Out of Merit,953,SSC
+267,Muhammad Junaid,Lal Zada,Mardan,Out of Merit,817,SSC
+268,Hasan Khan,Asad Zaman,Mardan,Out of Merit,799,SSC
+269,Muhammad Awais,Gul Bacha,Mardan,Out of Merit,744,SSC
+270,Muhammad Ibrahim,Rahman Ali,Mardan,Out of Merit,934,SSC
+271,Farhan Ali,Niaz Gul,Mardan,out of Merit,937,SSC
+272,Ahmad Sohaib,Naeem Shah,Mardan,out of merit,946,SSC
+273,Gul Akbar,Gul Baz,Mardan,out of merit,796,SSC
+274,Muhammad Ahmad,Naimat Ullah,Mardan,out of Merit,861,SSC
+275,Somaid ullah,Saeed ullah  ,Swabi,out of merit,819,SSC
+276,Palwasa,sefat ullah ,Lakki Marwat,out of merit,800,SSC
+277,Shaid ullah,yousaf Khan,Shangla,out of merit,871,SSC
+278,M. Ismail ,Faqir muhammad,Mardan,irrelevant attestation ,973,SSC
+279,Muhammad ilyan,Mir Wali   ,Mardan,irrelevant attestation ,971,SSC
+280,kiramat shah,Khalid shah,Mardan,irrelevant attestation ,960,SSC
+281,sonia,Jehan Zeb,Lakki Marwat,no attestation ,963,SSC
+282,Muhammad Salman,Muhammad yousaf Khan,Bannu,out of merit,799,SSC
+283,muhammad husnain ,rafiq khan,Mardan,irrelevant attestation ,979,SSC
+284,shezad ahamd ,sadiu khan,Mardan,irrelevant attestation ,979,SSC
+285,farooq ahmad,ali bahadur,Mardan,irrelevant attestation ,977,SSC
+286,Muhammad ahamad,abdul jabbar,Mardan,irrelevant attestation ,975,ssc
+287,Hadees,zahir shah,Mardan,irrelevant attestation ,975,SSC
+288,Abdulullah Muhammad,sakhad muhamad,Mardan,irrelevant attestation ,973,SSC
+289,yousaf shah,Aminur Rehamn ,Mardan,irrelevant attestation ,730,SSC
+290,Zia ur Rehman,Rehman Sahil ,Mardan,Our of Merit,909,SSC
+291,Kashif Ali Shah,Hikmat shah,Peshawar,attestation is not visible ,948,SSC
+292,Shah Husain ,Shah Faisal ,Mardan,Improper Attestation,984,SSC
+293,mustafa kamal ,Muhammad Rahim ,Mardan,Improper Attestation,987,ssc
+294,Rashid Khan ,Zahir Shah,Mardan,irrelevant attestation ,987,SSC
+295,rehana ,aziz khan ,Charsadda,special quota not attach,993,SSC
+296,M. Abdullah ,nasim khan,Lakki Marwat,father NIC not Attach,996,SSC
+297,Abida,qair naimat ullah khan ,Lakki Marwat,incomplete application ,998,SSC
+298,Muhamad abdur Rehman ,afrad ali ,Mardan,Improper Attestation,1000,ssc
+299,afaq khan ,zewar shah,Mardan,Improper Attestation,1001,SSC
+300,Zanib,Ghulam Qadir Khan,Lakki Marwat,current institution /no connect information ,1006,SSC
+301,Saif Ullah,Amir Nawas,Mardan,Improper Attestation,1003,SSC
+302,Naveed Ullah,Taj Muhammad,Mardan,Improper Attestation,1004,SSC
+303,Anees ur Rehman,Saeed ur Rehman,Mardan,Improper Attestation,1009,SSC
+304,Qaim,Muhammad Tariq,Bannu,passing year 2022/irrelevant attestation,690,FA
+305,Malaika Sohrab,Sohrab ud din,Mardan,form B/Domcile not attach,900,FSC
+306,Wajiha Rehman,Gul Rehman,Mardan,affidavitd not attested/out of merit,793,ssc
+307,Sadaf Fayaz,Muhammad Fayaz,Mardan,affidavit not attested,937,FSC
+308,Maida Rehman,Muhammad Rehman,Mardan,affidavit nto attested,1064,FSC
+309,Bibi Hafsa,Shakirullah,Mardan,affidavitd not attested/out of merit,854,FA
+310,Najla Nawaz,Ahmad Nawaz,Buner,NIC/Domcile/Form-B not attach,987,FA
+311,Muhammad Mansoor,Muhammad Shakeeb Khan,Bannu,"Domicile, Form-B deficiency",840,SSC
+312,Aqsa Gul,Muhammad Azam Khan,Bannu,"Domicile, CNIC Father and Student",1010,HSSC
+313,Ayesha Iqbal,Muhammad Iqbal,Lakki Marwat,Improper Attestation,972,HSSC
+314,Salahuddin,Gohar Ali,Shangla,Improper Affidavit,919,SSC
+315,Zubia Jehangir,Jehangir,Charsadda,"DMC, Domicile, CNIC deficiency",922,SSc/HSSC
+316,Bushra Naveed,Naveed Asif,Lakki Marwat,No DMC,812,HSSC
+317,Wajid Mehmood,Fazli Hakeem,Charsadda,No Affidavit,1005,SSc
+318,Hira Gul,Imtiaz Ahmad,Mardan,incompletee Affidavit,812,HSSC
+319,Sidra Imran,Muhammad Imran,Mardan,imcomplete affidavit,845,SSc
+320,Maryam Mumtaz,Mumtaz Ahmad,Mardan,imcomplete affidavit,957,HSSC
+321,Ummehani,Muhammad Riaz Khan,Dir Upper,Out of Merit,833,HSSC
+322,Khadija Shahbaz,Shabaz Khan,Mardan,Improper Attestation,858,HSSC
+323,Aleesha Fayaz,Muhammad Fayaz,Mardan,attestion no visible,928,HSSC
+324,Malaika Bibi,Fida Muhammad,Mardan,CNIC father/student,787,HSSC
+325,Muhib Ullah Khan,Abdur Rehman,Bannu,improper affidavit,1002,SSc
+326,Fozia Said,Said Ghulam,Buner,"2023 student, no CNIC",793,HSSC
+327,Jaweria Said,Said Ghulam,Buner,"2023 student, no CNIC",770,HSSC
+328,Shahzeb Khan,Zahir Khan,Charsadda,Stamp paper not attested,1081,SSc
+329,Muhammad Abbas,Shazad Gul,Charsadda,"Deficiency of Affidavit, Domicile, CNIC ",1113,SSc
+330,Aesar Ullah,Hamid Ullah,Dir,"Deficiency of Affidavit, Domicile, CNIC ",1044,SSc
+331,Jawad Ali,Said Karam Khan,Buner,"Private, Domicile, CNIC",1009,HSSC
+332,Sidra Gul,Bakht Zamin Khan,Swabi,DMC Deficiency,819,SSc/HSSC
+333,Ansar Ullah,Hamid Ullah,Dir Lower,"Deficiency of Affidavit, Domicile, CNIC ",1055,SSc
+334,Muhammad Essa Tahir,Tahir Gul,Dir Lower,"Irrelevant Affidavit, Domicile deficiency",943,SSc
+335,Fasih ud Din,Alla ud Din,Lakki Marwat,Private Student,1051,SSc
+336,Seyam Khan,Hayat Ullah,Dir Lower,"No Affidavit, CNIC (F)",1062,SSc
+337,Hamza Shahid,Muhammad Ibrahim Khan,Malakand,No Domicile,940,SSc
+338,Fida Hussain,Muhammad Hussain,Lakki Marwat,FA in progress ,986,SSC
+339,Muhammad Saqib,Qamar Ali Shah,Bannu,"irrelevant affidavit,  ",922,SSC
+340,Muhammad Tahir,Sultan Ali,Bannu,No Father NIC/No Domicle,807,SSC
+341,Munir Khan,muhammad ullah khan ,Bannu,FA in progress ,400,0
+342,M. Saad,Azeem Khan,Charsadda,private,880,SSC
+343,M. Adil,Sardaraz,Charsadda,Lower 60%,611,SSC
+344,Zeeshan Khan,Zahid ullah Khan,Lakki Marwat,"affidavit, domcile,father NIC not attach",933,FSC
+345,Uswa Faqeer ,Faqeer Zada,Dir Upper,"affidavit, domcile,father NIC not attach",961,SSC
+346,Faiza Ayaz,M. Ayaz,Mardan,Irrelevant affidavit.,756,FSC
+347,Wajiha Fazal,Fazal Karim,Mardan,"no photo attach, student of 2017",607,FSC
+348,Khadija  ,Shah Hussain,Buner,Private Student,1060,FSC
+349,Aqsa Ihsan,Ihsan Ullah,Charsadda,2023 student ,750,FSC
+350,Aneesa Noor,Nisar Muhammad,Mardan,Private Student,895,FSC
+351,Zaneera Javid,Javid Iqbal,Mardan,Private Student,1120,FSC
+352,Liaba sajjad,Sajjad Ali,Mardan,2022 student ,645,FSC
+353,Nargis Shah,Masood Shah,Swabi,2018 student,397,BSC
+354,Munazza,Jafar Shah,Swabi,BS urdu in progress,693,FSC
+355,Humaira Bib,Saeed Anwar,Mardan,2021 student,804,FSC
+356,Spogmai Riaz ,Gul Riaz,Malakand,Private Student,834,FSC
+357,Sajida,Sher Abas Khan,bannu,"irrelevant affidavate, out of merit",728,FA
+358,Irshad,Sher Abas Khan,Bannu,"irrelevant affidavate, out of merit",725,FA
+359,Nafees,M. Naseem Shah,Bannu,"irrelevant affidavate, out of merit",751,FA
+360,Khadija Kefayat ,Kefayat Ullah Khan,Bannu,"Irrelevant affidavte, out of merit",728,FA
+361,Liaba,Janan,Bannu,"Irrelevant affidavte, out of merit",848,FA
+362,Nadia Dawoot,Mir Dawoot,Bannu,"Irrelevant affidavte, out of merit",755,FA
+363,Saira Bibi,Ihsan Ullah,Bannu,"Irrelevant affidavte, out of merit",786,FA
+364,Ruhsana Naeem,Naeem Khan,Bannu,"Irrelevant affidavte, out of merit",827,FA
+365,Zeenat Jahangir,Jahangir Khan,Bannu,"Irrelevant affidavte, out of merit",768,FA
+366,Fariha Farid,Farid ullah,Bannu,"Irrelevant affidavte, out of merit",802,FA
+367,Nazish Ihsan,Ihsan Ullah Khan,Bannu,Irrelevant Affidavit,831,HSSC
+368,Hajra Nawaz,Dil Nawaz,Bannu,irrelevant affidavit,780,HSSC
+369,Laiba Rashid,Abdul Rashid Khan,Bannu,irrelevant affidavit,815,HSSC
+370,Maham Bibi,Muhammad Jan,Bannu,Irrelevant Affidavit,728,HSSC
+371,Muzaheroon Bibi,Muhamad Iqbal Khan,Bannu,"2023, Irrelevant Attestion",674,HSSC
+372,Noreen Bibi,Gohar Zad Khan,Bannu,"Lower 60%, No Affidavit",707,HSSC
+373,Karishma Bibi,Rambail Khan,Bannu,No affidavit,825,HSSC
+374,Memona Ajab,Ajab Khan,Bannu,No affidavit,858,HSSC
+375,Sumira Akhtar,Akhtar Nawaz Khan,Bannu,"No Photo, No Affidavit",840,HSSC
+376,Khafsa Bibi,aziz khan ,Bannu,No Affidavit,737,HSSC
+377,Sadia Dawoot,Mir Dawoot Khan,Bannu,No Affidavit,783,HSSC
+378,Naila Khan,Sher Ali Baz Khan,Bannu,No Affidavit,747,HSSC
+379,Rahila Naz,Hadayat Ullah,Chitral,"No Affidavit, HSSC in progress",452,HSSC
+380,Taiba Parveen,Sher Nadir Khan,Upper Chitral,"No Affidavit, HSSC in progress",417,HSSC
+381,Zainab ,Murad Khan,D.I Khan,"No DMC, Affidavit",726,HSSC
+382,Khadija Umar,Umar Din,D.I Khan,No Affidavit,870,HSSC
+383,Hameeda Bibi,Jan Muhammad,D.I Khan,"Ex-student, No Photo, Affidavit, Lower 60%",583,HSSC
+384,Humaira,Ghulam Farid,D.I Khan,"No Photo, No Affidavit",779,HSSC
+385,Nazra,Islamir Khan,D.I Khan,"Ex-student, irrelevant affidavit",807,HSSC
+386,Gulparina Bibi,Gulbaz Khan,D.I Khan,"No Photo, No Affidavit",838,HSSC
+387,Momin Khan,Malook Khan,Khyber,"Private, No affidavit, CNIC, Domicile etc.",853,Matric
+388,Sulaiman Shah,Askar,Mohmand,Private,933,Matric
+389,Fatima Bibi,Gulbaz Khan,D.I Khan,"Ex-student, No Photo, Affidavit",916,HSSC
+390,Adnan Khan,Gulmat Shah,Peshawar,"Private, No affidavit, Domicile, CNIC",951,Matric
+391,Noor Muhammad,Zia ur Rehman,Khyber,"No Domicile, Affidavit, CNIC",949,Matric
+392,Tayab Khan,Ajab Khan,Upper Mohmand,"Private, Affidavit not attested",887,Matric
+393,Zalan Mansoor,Muhammad Anwar Khan,Bajaur,"Private, No Domicile, CNIC",974,Matric
+394,Muhammad Umar,Noor Dad Khan,Orakzai,2023 student,884,Matric
+395,Jamila,Taj Muhammad,Kurrum,"No CNIC, Domicile",836,Matric
+396,Gulshan Orakzai,Sagi Gul,Kurrum,2023 student,851,Matric
+397,Maria Bibi,Atta Ullah Shah,D.I Khan,Ex/Private 2024,884,HSSC
+398,Saliqa Bibi,Dur Muhammad,D.I Khan,No Affidavit,697,HSSC
+399,Raishmina,Muhammad Amin,D.I Khan,"Ex-student, Compart",760,HSSC
+400,Raqeeba,Maveez Khan,D.I Khan,Ex-student of 2022,727,HSSC
+401,Nazia Bibi,Gulbaz Khan,D.I Khan,Private,833,HSSC
+402,Sumaid Ahmad,Asghar Khan,Swabi,"2023 student, Compart, Private, No Affidavit",953,HSSC
+403,Sharija Bibi,Hikmat Shah,D.I Khan,Private,846,HSSC
+404,Sara Bibi,Hikmat Shah,D.I Khan,"Ex/Private 2024, No Affidavit, Photo",873,HSSC
+405,Ikram Ullah,Shah Zad Gul,Bajaur,2023 student,907,Matric
+406,Samin Uddin,Bahauddin,Mardan,"No Domicile, CNIC",990,Matric
+407,Anwar ul Haq,Hayat Muhammad,Bajaur,2023 student,906,HSSC
+408,Hafsa Inayat,Laiqat Ali,Bajaur,"Private, No Affidavit",812,Matric
+409,Inayat Ullah,Faiz Wali Khan,Bajaur,affidavit not attested,1088,Matric
+410,Ijaz ul Haq,Alam Zeb,Bajaur,"Ex-student, Compart",949,HSSC
+411,Farhad Khan,Abdul Wahab,Bajaur,"Private, 2023, Compart Part-I HSSC",406,HSSC
+412,Sajjad Khan,Khan Badshah,Bajaur,Private,885,HSSC
+413,Shamsia Bibi,Shabir Hussain,Upper Kurrum,Private,1051,HSSC
+414,Rabia Basri,Jan Muhammad,Bajaur,Lower 60%,707,Matric
+415,Anis Khan,Faqir Muhammad,Bajaur,"No Domicile, CNIC, Private, Unattested Affidavit",1046,Matric
+416,Khubaib Khan,Faqir Muhammad,Bajaur,"Private, Unattested Affidavit, No Domicile",1070,Matric
+417,Nabila Faqeer,Faqir Muhammad,Bajaur,"Ex-student 2023, compart, No CNIC",976,Matric
+418,Ayesha Azmat,Azmat Aziz,D.I Khan,Improper Affidavit,948,Matric
+419,Hadiqa Mehmood,Tariq Mehmood,Lakki Marwat,"No DMC, Domicile, CNIC",792,SSC/HSSC
+420,Sajjad ur Rehman,Fazal Karim,Chitral,"Irrelevant Affidavit, No CNIC (Father)",951,HSSC
+421,Mahreen Kamal,Anwar Kamal,Lakki Marwat,Private,1024,Matric
+422,Ayesha Waheed,Waheed Ullah,Karak,"No CNIC, Domicile",900,Matric
+423,Muhammad Younas,Muhammad Haroon,Shangla,2022 student,984,HSSC
+424,Muhammad Haider,Khalid Mehmood,Abbottabad,No Photo,1049,Matric
+425,Umama,Wali Khan,Charsadda,"No Affidavit, Domicile, Form-B",995,Matric
+426,Malak Faiza Khan,Umar Ghani,Dir Lower,"Private, 2022, Compart, Improper Affidavit",821,HSSC
+427,Maria Raziq,Muhammad Raziq,Dir Lower,Private,1098,Matric
+428,Palwasha,Sher Zaman,Swat,"2022 student, Improper Affidavit",792,HSSC
+429,Zakir Ullah,Jehan Zeb,Shangla,"2022 student, Improper Affidavit",985,HSSC
+430,Adan Hoorain,Abid Rehman,Bannu,No Affidavit,886,HSSC
+431,Inam Ghani,Said Ghani,Malakand,"Private, Improper Affidavit",1071,Matric
+432,Nasib Ullah,Niaz Muhammad,Tank,Just Application form,721,Matric
+433,Farid Ullah,Niaz Muhammad,Tank,Just Application form,861,Matric
+434,Fatima Noor,Muhammad Saqib,Peshawar,HSSC in Progress,509,HSSC
+435,Hazrat Bilal,Khurshaid Khan,Upper Dir,"No Application, Affidavit. Not relevant",970,Matric
+436,Latif Ullah,Khurshaid Khan,Upper Dir,"No Application, Affidavit. Not relevant",826,Matric
+437,Muhammad Naveed Khan Saqib,Ghulam Farid,Karak,"2023, Private, Compart, No Affidavit, Domicile, CNIC",830,HSSC
+438,Rukhsar,Shabeer Ahmad,Charsadda,Improper Affidavit,1035,Matric
+439,Muhammad Ibrahim,Fayaz Ahmad,Peshawar,No Affidavit,796,HSSC
+440,Neelam,Mamraiz Khan,Peshawar,no affidavit,827,HSSC
+441,Siddiqa Hafiz,Hafiz Ullah,Peshawar,afffidavit not attested properly,960,SSC
+442,Hazrat Hussain,Muhammad Khan,Peshawar,affidavat attestation not visible ,871,FSC 
+443,Adil Ali Shah,Mumtaz Hussain,Shangla,improper affidavit,942,SSS
+444,Rehan Nawaz,Sartaj Khan,Shangla,improper affidavit,1014,SSC
+445,Ubaid Ullah,Zakir Ullah,Mardan,2023 & compart,978,FSC 
+446,Farhan Shah,Irfan Shah,kohat,application not attahe,986,SSC
+447,Aleena Kainat,Asmat Ullah Khan,Bannu,"no domcile, no Father CNIC, irrelevatn affidavit ",1042,FSC
+448,Muhammad Sauood Khan,Jan Darz Khan,Bannu,"FSC in progress, no CNIC , Domcile attach",479,0
+449,Nafid ullah,Rasool Zaman,Bannu,2023 student,964,SSC
+450,Farzeen Kamal,Anwar Kamal,Lakki Marwat,private,980,SSC
+451,Muhammad Maaz,Amin Shah,Charsadda,No Affidavit,1033,Matric
+452,Mudassir Khan,Painda Khan,Mardan,"Deficiency of Affidavit, Domicile, CNIC, HSSC in Progress",385,Intermediate
+453,Haroon Rasheed,Wahid Shah,Charsadda,No Affidavit,855,Matric
+454,Azmat Wali Khan,Sher Muhammad,Shangla,Improper Affidavit,1009,Matric
+455,Muhammad Talha,Fazal Wahid,Mardan,"2022 student, No Affidavit",922,Intermediate
+456,Zunaira Fayaz,Muhammad Fayaz,Mardan,Irrelevant Attestion,969,Matric
+457,Muhammad Adil,Bakht Bahadur,Swabi,"2023 student, no Affidavit",805,Matric
+458,Muhammad Salar,Muhammad Shah,Mardan,"HSSC in Progress, No Affidavit",392,Intermediate
+459,Nida Bibi,Jehan Zeb,Mardan,Irrelevant Attestion,925,Matric
+460,Kaleem Ullah Khan,Amir Nawaz Khan,Lakki Marwat,No CNIC/Form-B,915,Matric
+461,Muhammad Shoaib,Dilbar Khan,kohat,No Affidavit,860,Matric
+462,Muskan Khan,Saad Ullah Khan,Swat,"Private, Improper Attestion",966,Matric
+463,Alina Khan,Fazal Karim,D.I Khan,2023 student,828,HSSC
+464,Sania Bibi,Dilbar Hussain,Mansehra,HSSC in Progress,490,HSSC
+465,Fajjar Bibi,Dildar Hussain,Mansehra,No Domicile/Form-B,981,Matric
+466,Khalil Khan,Gul Waheed Khan,Nowshera,"Domicile, Affidavit, CNIC",1019,Matric
+467,Marwa Gul,Zahir Gul,Mardan,irrelevant attestation ,899,Intermediate
+468,Faheem Yar Khan,Allah Yar Khan,kohat,Private,1000,HSSC
+469,Laraib,Asmat Ullah,D.I Khan,"2023 student, Compart, No Affidavit, Domicile etc",796,Matric
+470,Yasir Ahmad,Muhammad Saeed,Shangla,Improper Affidavit,1027,Matric
+471,Showkat Aziz,Fazal Rabi,Shangla,Improper Affidavit,1009,Matric
+472,Zeeshan Khan,Mir Qad Ayaz Khan,Bannu,"Improper Affidavit, Photo, CNIC",1061,HSSC
+473,Anees ur Rehman,Sahi Marjan,Lakki Marwat,Private,969,HSSC
+474,Fawad Ahmad,Habib Ullah,Lakki Marwat,"No Domicile, Form-B, CNIC",813,HSSC
+475,Javeria Bibi,Baid Ullah Jan,Lakki Marwat,"No Form-B, CNIC, Domicile",930,FSc
+476,Marhaba Farman,Farman Ali Khan,Mardan,Private,1089,FSc
+477,Shela Khan,Noor Ullah Khan,Malakand,Improper Attestation,751,FSc
+478,Usra Bibi,Muhammad Yousaf,Mardan,"2023 student, SSC/HSSC Certificates are doubtful",874 (HSSC),SSC/HSSC
+479,Muhammad Tahir,Abdul Hai,Mansehra,"Ex-Student 2024, Improper Affidavit",987,FSc
+480,Noel Ameeq,Nadeem Naseer Uddin,Peshawar,"2021 student, No Affidavit, Compart",758,Fsc
+481,Madeeha Zafar,Zafar Ali,Mardan,Improper Attestation,913,FSc
+482,Tanzeera Idrees,Muhammad Idrees Khan,Mardan,"No Domicile, Form-B, Improper Attestion",842,FSc
+483,Shazma Khan,Moraish Khan,Mardan,"Form-B, Improper Attestion",728,FSc
+484,Haseena Khan,Abdul Hanan,Mardan,Improper Attestation,764,FSc
+485,Kashmala Noor,Shan Ali,Mardan,"Form-B, CNIC, Improper Attestion",903,Fsc
+486,Tanzeela,Zakir Ullah,Mardan,"2021 student, Lower 60%",696,FSc
+487,Mashal Khan,Muhammad Irshad Khan,Mardan,Private,1064,FSc
+488,Laiba Noor,Sabir Khan,Swabi,"Ex-Student of 2023, Private, Compart",960,Intermediate
+489,Rehana Shehzadi,Khan Sharaf,Mardan,Improper Attestation,924,Intermediate
+490,Tasmia Ilham,Bashir Ullah,Chitral,"No Affidavit, HSSC in progress",475,HSSC
+491,Shahana Nasir,Muhammad Nasir Shah,Chitral,"No Affidavit, HSSC in progress",468,HSSC
+492,Nehad Bibi,Wali Ayaz Khan,Bannu,"No Affidavit, Special Quota Documents",761,Matric
+493,Ansa Bibi,Raqibaz Khan,Bannu,No Affidavit,755,Matric
+494,Sadaf Asmat ,Asmat Ullah Khan,Bannu,No Affidavit,926,Matric
+495,Reeba Hamayum,Hamayoon Khan,Bannu,No Affidavit,814,Matric
+496,Momna Hayat,Umer Hayat Khan,Bannu,No Affidavit,808,Matric
+497,Kausar Bibi,Rasool Khan,Bannu,No Affidavit,839,Matric
+498,Javeria Bibi,Anwar Shah,Bannu,No Affidavit,876,Matric
+499,Sabiha Bibi,Ajmal Khan,Bannu,No Affidavit,856,Matric
+500,Rehmat Bibi,Bahadar Khan,Bannu,No Affidavit,888,Matric
+501,Anisha ,Ihsan Ullah,Bannu,private no Affidavit,882,SSC
+502,Iman Ayaz,Wali Ayaz Khan,Bannu,private no Affidavit,860,SSC
+503,Sidra Raqeeb,Raqibaz Khan,Bannu,No Affidavit,883,SSC
+504,Manahil Iqbal,Syed Iqbal,Bannu,no Affidavit,969,SSC
+505,Marwa Anfal,Hidayat ullah khan ,Bannu,No affidavit and Form-B,947,SSC
+506,Jamshid Khan,Khaisoor khan,bannu,"SSC 2023 private, out of merit",635,SSC
+507,Abdul Wahab,Shah Baz Khan,Bannu,HSSC in progress,731,SSC
+508,Atif Nawaz,Taj Nawaz,Bannu,HSSC in progress,932,SSC
+509,Jamshed khan ,Hameed Ullah Khan,Bannu,HSSC in progress,819,SSC
+510,Said Ud Din ,Ihsan Ullah,Bannu,HSSC in Progress,822,SSC
+511,Saif Ullah,Gul Muhammad,Bannu,HSSC in Progress,860,SSC
+512,Wahib ullah,Abdul Wali Khan,Bannu,HSSC in progress,685,SSC
+513,Muhammad Sudais ,Mir Atlas khan ,Bannu,No NIC attach,735,Pre-Com
+514,Shanza Bibi,Shahzad Gul ,Mansehra,No Father NIC/No Domicle,781,FSC
+515,Areesha Khalid,Khalid Mehmood,Mansehra,"Form-B, Domcile, father CNIC no attach",918,FSc
+516,Afsheeen Bibi,Saien Muhammad,Mansehra,"Form-B, Domcile, father CNIC no attach",821,FA
+517,Salma ,Akhtar khan,Mansehra,"Form-B, Domcile, father CNIC no attach",769,FA
+518,Shehzadi,Shafaqat Ali,Mansehra,"Form-B, Domcile, father CNIC no attach",810,FSC
+519,Marukh Ali ,sajid Ayub,Mardan,Irrelevant affidavit,868,FA
+520,Summayya Noor,Noor ul Wahab,Mardan,No affidavit attach,839,FA
+521,Sahar,Gul Shere ,Mardan,irrelevant affidavit,834,FSc
+522,Zakir Ullah,Muhammad saeed,Lakki Marwat,no affidavit and HSSC in progress,470,HSSC in progress
+523,Saima Bibi,Muhammad Younis Khan,Lakki Marwat,out of merit,881,SSC
+524,Sheikh Muhammad,Azhar Saifoor,bannu,out of merit,878,SSC
+525,Aneesa Karim,Karim ullah,Chitral,HSSC in progress,851,SSC
+526,Sharafat ullah,Sarwar Shah,Lakki Marwat,private,986,FSC
+527,Naima mahjoor,haider Hussain,Chitral,HSSC in progress,870,SSC
+528,Anila Bibi,Sher Bahadar,Lakki Marwat,incompletee Affidavit,839,FA
+529,mahaz hameed,fazli hameed,swabi,imcomplete application ,921,SSC
+530,Hammad Khan ,Amin Saeed,Dir Lower,"2023 student, private, No CNIC attached",968,FSC
+531,Muhammad Saad ,Aman ullah khan ,Bannu,"2023 student, private, No CNIC attached",867,FSC
+532,Nimra Zubaida ,kakeem khan ,Charsadda,"private, 2023 studedent ",1006,SSC
+533,Khadeeja Gul ,Abdul Hai Khan ,Lakki Marwat,2023 student,821,FA
+534,Muhammad Ramzan,Farid ullah,D.I Khan,private incompletee application,931,SSC
+535,Fahad,Ayaz,Bannu,"2023, improper affidavit",848,SSC
+536,Muhammad Jawad,Muhammad Din,Bajaur,"2023, private",883,FSC
+537,Ansa Wali,Mir Wali Khan,Tank,incompletee application,1026,FSC
+538,Sapna  ,Muhammad Ishaq,Mardan,"2022, priviate, no affidiavte",861,FSC
+539,Gracy Singh,Sawinder kumar,Buner,"2022 student, No Affidavit",887,FSC
+540,Sikandar Khan ,Aslam Khan,Peshawar,2021 priivate,956,FSC
+541,Aiman pervez,Shah Pervez,Charsadda,"private, affidavit and domcile not attach",1002,SSC
+542,Muhammad Huzaifa ,Muhabbat hussain shah,Haripur,improper affidavit no domcile and form-B,1006,SSC
+543,Saif ullah Amin,Abdul Amin,Khyber,Diploma not visible,2511,Diploma of Associate Engineer
+544,Muhammad Nasir Khan,Naseeb Nawaz Khan,Bannu,part-I in progress,515,part-I in pre-com
+545,Ibad ulah,Umar Zaman ,Shangla,improper affidivate,971,SSC
+546,Muhammad wasi khan,Muhammad Farooq,Shangla,improper affidivate,972,SSC
+547,Ihsan ullah,Chaman Gul,Shangla,improper affidavit,1043,SSC
+548,Fawad Ali,Rasheed Khan,Mardan,"ex-student , compart",789,FSC
+549,saddam hussain,jamal shah,Mardan,private,1010,FSC
+550,Mudasir Zaman,Zubair,Mohmand,compart,907,FSC
+551,Muhammad Danish,Abdul Satar,Mardan,DMC Deficiency,973,FSC
+552,Maryam Bibi,Gul Haider Shah,Mardan,"Ex-Student of 2024, Compart",914,Intermediate
+553,Abdullah,Arzullah Khan,Mardan,Lower 60%,718,Intermediate
+554,Umair Qadar,Ghulam Qadar,Mardan,"lower 60%, 2020 student",678,Intermediate
+555,Irfan Ullah,Taqyyeb Ullah ,Mardan,Irrelevant Attestion,816,Intermediate
+556,Baljeet Singh Rajpoot,Bota Ram Rajpoot,Mardan,Irrelevant Attestion,943,FSc
+557,Muskan Gul,Gul Baz Khan,Mardan,No Affidavit,910,HSSC
+558,Muhammad Siddique,Astafsar Ali,Mardan,No Affidavit,744,HSSC
+559,Muhammad Umair,Raheem Gul,Mardan,Private,1049,HSSC
+560,Muhammad Zubair Khan,Masal Khan,Mardan,incompletee Affidavit,979,HSSC
+561,Muhammad Wahab,Azad Khan,Mardan,Private,990,HSSC
+562,Shah Fahad,Akhtar Ali,Mardan,"Private, CNIC Deficiency",864,HSSC
+563,Anees Khan,Fazal Dad,Mardan,Private,1026,FSC
+564,Muhammad Arsalan Hayat ,Hayat Muhammad,Mardan,"Private, Irrelevant Attestion",1023,FSC
+565,Assan Ali,Rafi Uddin,Mardan,"Private, Irrelevant Attestion",1005,FSc
+566,Saad Ullah,Sajad Muhammad,Mardan,Private,768,HSSC
+567,Samad Khan,Khubaz Khan,Bannu,Improper Affidavit,825,HSSC
+568,Ishtiaq Ahmad,Khalid Khan,Shangla,"2021 student, No Affidavit",866,HSSC
+569,Tajjala Khan,Khurshid Ali,Shangla,Improper Affidavit,1043,HSSC
+570,Sanila Bibi,Muhammad Raheem,Shangla,No Affidavit,924,HSSC
+571,Hijab Saeed,Saeed Ullah Shah,Lakki Marwat,Private,950,HSSC
+572,Iman Khan,Muhammad Ismail Nawaz,Bannu,No Affidavit,901,HSSC
+573,Shah Zeb Ullah,Raheem Khan,Bannu,2020 student,680,HSSC
+574,Ali Ahmad,Ameer Bahadur,Swat,"No Affidavit, 2023 student",952,HSSC
+575,Takrim Bibi,Ihsan Ullah,Shangla,"Father CNIC, Improper Affidavit",1002,HSSC
+576,Muhammad Umair,Umar Ghani,Buner,No Affidavit,860,HSSC
+577,Zaib Ullah,Rozi Badshah,Shangla,"Improper Affidavit, DMC no visible",959,HSSC
+578,Zahid Hussain,Bakht Zareen,Shangla,Improper Affidavit,1055,HSSC
+579,Sahil Gul,Muhammad Zahoor Khan,bannu,Improper Affidavit,729,HSSC
+580,Bawar Khan,Behrooz Khan,Shangla,Improper Affidavit,1018,HSSC
+581,Ume Kalsoom Bibi,Umar Gul,Lakki Marwat,2023 student,817,HSSC
+582,Zahir Ullah,Muhammad Saeed,Shangla,Improper Affidavit,1006,HSSC
+583,Haleem Gul,Aman Ullah,Lakki Marwat,2023 student,788,HSSC
+584,Aman Ullah,Muhammad Raziq,Shangla,Improper Affidavit,966,FSc
+585,Muhammad Abdullah,Muhammad Musa,Haripur,"Improper Affidavit, Domicile, CNIC",871,FSc
+586,Neelam Bibi,Ghafar Ali,Charsadda,No Affidavit,814,HSSC
+587,Muhammad Rahail Khan,Muhammad Kareem,Shangla,Improper Affidavit,849,FSc
+588,Obaid Ullah,Muhammad Kareem,Shangla,Improper Affidavit,1102,FSc
+589,Aneela ,Muhammad Diyar,Charsadda,"Improper Affidavit, DMC, CNICs, Domicile",886,SSC
+590,Fiza Muhammad ,Muhammad Sareer,Charsadda,"Improper Affidavit, DMC, CNICs, Domicile",1051,SSC
+591,Fazal Aziz,Fazli Hadi,Shangla,Improper Affidavit,971,FSc
+592,Hira Danish,Danish Khan,Mardan,"FSc/FA DMC Deficiency, Improper Affidavit",815,HSSC
+593,Muhammad Ahmad Shah,Ibrahim Shah,Lakki Marwat,"Ex-Student, Private, Compart",855,SSC
+594,Ahmad,Muhammad Usman,bannu,No DMC,982,SSC
+595,Shafiq ur Rehman ,Bakht Sherawan,Shangla,Improper Affidavit,883,FSc
+596,Shoukat Alam,Fazal Alam,Shangla,Improper Affidavit,897,FSc
+597,Jawad Ali,Fazal Wadood,Shangla,Improper Affidavit,1017,FSc
+598,Zabih Ullah,Muhammad Riaz,Shangla,Improper Affidavit,1008,FSc
+599,Rafi Ullah,Hameed Ullah,Lakki Marwat,HSSC in Progress,459,HSSC
+600,Tariq Aziz,Muhammad Aziz Ullah,Peshawar,2023 student,881,FSc
+601,Ahmad Ullah Khan,Rahmat Ullah Khan,Lakki Marwat,incompletee Application (just application and affidavit),810,SSC
+602,Ishaq Ahmad,Hameed Gul,Charsadda,"Private, 2023, No Affidavit",1058,SSC
+603,Shayan Ali Shah,Nazur Shah,Lower Chitral,"No Domicile, CNIC F/S",1050,SSC
+604,Abdullah,Wasif Khan,Battagram,No Affidavit,888,SSC
+605,Muhammad Haris,Gul Sher Ali Khan,Bannu,Improper Affidavit,1034/1400,DAE
+606,Sajawal Feroz,Feroz Khan,Lakki Marwat,Private,970,SSC
+607,Muhammad Hussain,Rahim Ullah Khan,Lakki Marwat,No Photo,1014,SSC
+608,Maseeh Ullah,Bakhti Rehman,Dir Upper,HSSC in Progress,407,HSSC
+609,Farhat Naz Akhtar,Mir Alam Khan,Lakki Marwat,Ex-Student of 2023,825,HSSC
+610,Muhammad Fawad,Abdul Rasheed Khan,Lakki Marwat,Ex-Student,956,HSSC
+611,Ikhtisham Khan,Taj Ali Khan,Lakki Marwat,Private,957,SSC
+612,Mustajab Ahmad,Amir Nasrullah Khan,Lakki Marwat,"Ex-Student of 2021, Improver",924,Intermediate
+613,Shah Faisal,Misal Khan,Swabi,"2023 student, No enclosure except DMC",954,SSC
+614,Misbah Ullah Khan,Asfandyar Khan,Charsadda,"private, 2023 studedent ",1065,SSC
+615,Arsalan Khan,Intihab Alam, Swabi,"No Enclosures, 2023 student",800,SSC
+616,Muhammad Mustafa,Muhammad Ishaq,Bannu,Ex-Student 2023,721,SSC
+617,Muhammad Adil Jan,Shah Khalid,Charsadda,"2023 student, irrelevant affidavit",1043,SSC
+618,Muhammad Riaz,Ghazi Marjan,Lakki Marwat,Private,901,SSC
+619,Muskan Gul,Muzaffar,Nowshera,Improper Attestation,967,HSSC
+620,Iram Anwar,Anwar Sadat,Chitral,"Private of 2022, No Affidavit",798,FSc
+621,Imran Khan,Muqarrab Khan,Lakki Marwat,2023 student,894,SSC
+622,Arif Ullah,Ghulam Muhammad,Lakki Marwat,Irrelevant Attestion,934,SSC
+623,Muhammad Saad ,Hazrat Jamal,Swabi,"Ex-Student, No Annexture except DMC",899,SSC
+624,Hashmat Ali ,Liaqat Ali ,Malakand,No Affidavit,995,SSC
+625,Sadaf Ali,Miskeen Shah,Haripur,"2023 student, Private, Lower 60%",716,HSSC
+626,Nazim Ullah,Misal Khan,Swabi,"No Annexture except DMC, 2022",798,SSC
+627,Zarnishal Said,Syed Zafran Ali Shah,bannu,No Affidavit,870,HSSC
+628,Aziz ur Rehman,Shah Zada,Lakki Marwat,"Private, Improper Attestion",956,SSC
+629,Salma Aman,Aman ullah khan ,Lakki Marwat,Improper Attestation,872,FSc
+630,Muhammad Sameer Manzoor,Manzoor Hussain,D.I Khan,No Affidavit,805,SSC
+631,Muhammad Saeed,Razi Uddin,Swabi,No Affidavit,931,HSSC
+632,Huzaifa,Daulat Noor,N. Waziristan,"2021 student, Lower 60%",684,SSC
+633,Muhammad Haris,Muhammad Ishaq,Lakki Marwat,No CNIC F/S,854,HSSC
+634,Muhammad Saqib,Muhabat Khan,Lakki Marwat,"Ex-student of 2023, Improper Attestion",891,HSSC
+635,Sajad Khan,Muhammad Akram Khan,Lakki Marwat,Lower 60%,616,HSSC
+636,Nadia Khan,Niaz Muhammad,Nowshera,"CNIC father, Domicile, No Affidavit",992,SSC
+637,Sahar Bibi,Barakat Shah,Mardan,"No Affidavit, CNIC (S/F)",941,HSSC
+638,Maria,Bahr Ullah,Charsadda,"2021 student, Improper Attestion",721,SSC
+639,Adeena Usman,Usman Ali,Mardan,2022 student,1008,HSSC
+640,Samia Rehman,Saif ur Rehman,Lakki Marwat,"Improper Attestion, No Domicile, CNIC (F)",908,SSC
+641,Zeeshan,Amir Khan,Lakki Marwat,No Affidavit,831,SSC
+642,Qanita Taskeen,Muhammad Amir Sabri,Peshawar,"2022 student, Improper Affidavit",949,HSSC
+643,Abuzar Khan,Fazal Noor,Mardan,"No Affidavit, CNIC (F)",809,hSSC
+644,Salah Uddin,Mir Ghulam,D.I Khan,No Affidavit,842,HSSC
+645,Imdad Ullah,Naimat Ullah,D.I Khan,No Affidavit,806,HSSC
+646,Zakir Ullah,Shakir Ullah,D.I Khan,No Affidavit,897,HSSC
+647,Rabia Bibi,Falak Sher,D.I Khan,"No Affidavit, 2023 student",856,HSSC
+648,Sania Saeed,Akbar Saeed,D.I Khan,"No Affidavit, 2023 student",736,HSSC
+649,Maryam Bibi,Ghazi Mar Jan,D.I Khan,"2023 student, no Affidavit",790,HSSC
+650,Samrina Bibi,Muhammad Nasim,D.I Khan,"2023 student, no Affidavit",772,HSSC
+651,Muhammad Sufyan,Muhammad Ayub Khan,D.I Khan,"No Affidavit, CNIC (F)",1028,HSSC
+652,Muhammad Adan Khan,Shahid Saleem,D.I Khan,"No Affidavit, 2022 Student, compart",858,HSSC
+653,Muhammad Daniyal,Abdul Rauf,D.I Khan,"No Affidavit, CNIC (F)",949,SSC
+654,Muhammad Yaseen,Salim Khan,Dir Lower,No CNIC (F),1032,SSC 
+655,Abdul Majeed,Hadees,Kohistan,"Private, No Affidavit",971,HSSC
+656,Sana Dawood,Dawood Khan,Swat,"No Affidavit, Photo, CNIC (F)",856,HSSC
+657,Tahira Bibi,Abdul Qadoos,Dir Lower,"No Affidavit, Domicile, CNIC (F)",932,SSC
+658,Tanzeela Bibi,Abdul Qadoos,Dir Lower,"No Affidavit, Domicile, CNIC (F)",1001,SSC
+659,Zainub Bibi,Hafiz Abdul Ghani (late),D.I Khan,"No Affidavit, CNIC (F), Improper Attestion",972,SSC
+660,Afefa Bibi,Gul Muhammad ,D.I Khan,"No Affidavit, Private, No CNIC (F)",998,SSC
+661,Arif Ullah,Jehan Zeb,Bajaur,"Private, No Affidavit",1011,SSC
+662,Sidra,Hukam Zada Khan,Lakki Marwat,"CNIC S/F, Domicile",868,HSSC
+663,Asma Saleem,Muhammad Saleem ,D.I Khan,"No Affidavit, HSSC in progress",393,HSSC
+664,Husnain,Ijaz Khan,Bannu,Lower 60%,673,SSC
+665,Sheriyar Khan,Zarif Khan,Lakki Marwat,"No CNIC (F/S), Domicile",824,HSSC
+666,Shah Zeb Khan,Zaheer Khan,Charsadda,"No Affidavit, CNIC",1081,SSC
+667,Zuhaib Khan,Jehanzeb Khan,Bannu,2023 student,947,SSC
+668,Daniyal Jamshed,Jamshed Khan,Charsadda,No enclosure except simple affidavit,--,--
+669,Hasan Raza,Muhammad Raza Khan,Bannu,"2023 student, improper affidavit, Private",971,SSC
+670,Muhammad Kifayat Ullah Khan,Muhammad Safi Ullah Khan,Bannu,HSSC in Progress,516,HSSC
+671,Afaq Ahmad,Alam Rehman,Bannu,2023 student,938,SSC
+672,Zakir Ullah,Gul Muhammad,kohat,"Private, Improper Affidavit",940,HSSC
+673,Rumais,Shafiq ur Rehman,Buner,Improper Attestion,868,SSC
+674,Javed Khan,Samandar Khan,Lakki Marwat,"Improper Affidavit, HSSC in Progress",524,HSSC
+675,Haroon Rasheed,Abdul Rasheed,Swabi,"No Affidavit, CNIC (F), Domicile",1027,SSC
+676,Hijab Gul ,Muhammad Mujeeb Ullah Khan,Lakki Marwat,"No CNIC (F), Irrelevant Affidavit, 2023 student",825,SSC
+677,Muhammad Awais Khan,Hashim Khan,Lakki Marwat,"No Domicile, CNIC F",943,HSSC
+678,Muhammad Wiqar,Asif Nadeem,Bannu,"Private, Improper Affidavit",891,SSC
+679,Mehmood,Nasrullah,Tank,"No Photo, Domicile, Form-B, DMC",546,SSC/HSSC
+680,Ijaz Ahmad,Amir Nawas Khan,Lakki Marwat,"No Domicile, CNIC (F/S)",977,HSSC
+681,Tariq Hasham,Ameer Zada,Dir Lower,"Ex-Student of 2024, Compart, no Affidavit",955,HSSC
+682,Muhammad Hafeez Ullah,Raheem Ullah,Lower Chitral,"No Affidavit, Domicile, CNIC (F/S)",1084,SSC
+683,Syed Muhammad Bilal,Syed Zahir Shah,Charsadda,"No Affidavit, Domicile, No Form-B",1067,SSC
+684,Muhammad Junaid Khan,Raheem Ullah Khan,Bannu,"No Form-B, 2023 student",809,SSC
+685,Hassan Khan,Jehangir Khan,Bannu,2023 student,894,SSC
+686,Uzair Ullah,Zahir Khan,Charsadda,"No Affidavit, CNIC (F/S), Domicile",1016,SSC
+687,Munza,Arshad Ali,Mardan,"No Domicile, Improper Affidavit",798,Intermediate
+688,Siyam Bibi,Habib ur Rehman,Bannu,"No enclsoure except application + Photo, 2022 student",617,SSC
+689,Irshad Ullah,Saif ur Rehman ,Lakki Marwat,"No CNIC (F), Improper Attestion",895,HSSC
+690,Muhammad Shahzeb ,Asmat Ullah,Bannu,Improper Attestion,826,HSSC
+691,Muhammad Zaid Ali,Hasan Gul,Charsadda,Improper Attestion,958,HSSC
+692,Muhammad Muhsin Shah,Ibrahim Shah,Lakki Marwat,2023 student,877,HSSC
+693,Syed Mehruban Ali Shah Bukhari,Syed Fayaz Ali Shah Bukhari,Nowshera,"2023 student, Improper Affidavit, No Domicile, CNIC (F/S)",987,SSC
+694,Sana Gul (girl),Faqeer Gul,Malakand,Improper Affidavit,892,SSC
+695,Kamran Alam,Muhammad Tufair,Shangla,Private,1036,SSC
+696,Muhammad Waseem,Shahrafat Ali (late),Shangla,"Irrelevant Affidavit, No DMC",1003,SSC
+697,Muhammad Saqaf,Hamid Ullah,Bannu,2023 Student,997,SSC
+698,Sadiq Ahmad,Sher Wali Khan,Buner,"Improper Affidavit, ",1034,SSC
+699,Faizan Ahmad ,Naseer Gul,Malakand,Improper Attestion,1077,SSC
+700,Zia ur Rehman,Fazli Rehman,Lakki Marwat,Lower 60%,719,SSC
+701,Ishtiaq Ahmad,Khalid Khan,Shangla,"Received in July, 2025 as after due date. 2021 student",866,HSSC
+702,Muhammad Idrees,Bakht Jehan,Nowshera,Improper Affidavit,846,Intermediate
+703,Saeed Ullah,Muntazir,Buner,2023 student,807,Intermediate
+704,Tanveer Ahmad,Shabir Ahmad,Lakki Marwat,"CNIC (F), Improper Attestion",740,Matric
+705,Faisal Inam,Inam Ullah Khan,Lakki Marwat,"Deficiency of Domicile, CNIC (F/S)",862,HSSC
+706,Absufyan,Bdaulat Noor,Bannu,Domicile,840,Matric
+707,Madiha Gul,Gul Bahadar Khan,Dir Upper,"Affidavit, , Domicile, CNIC",791,FSc
+708,Asif Nawaz,Muhammad Nawaz,Lakki Marwat,2020 student,767,HSSC
+709,Shah Hussain,Muhammad Ameen,Battagram,CNIC (F/S),937,Matric
+710,Sadat Jan,Subhani Gul,Dir Lower,"Improper Affidavit, CNIC (F/S)",899,HSSC
+711,Asif Ullah Khan,Balqaiz Khan,Bannu,2023 student,768,HSSC
+712,Muhammad Ahmed,Muhammad Ismail,Lakki Marwat,"Domicile, CNIC Father and Student",1046,Matric
+713,Muhammad Danish,Nowroz Khan,Lakki Marwat,"Improper Affidavit, No Form-B",942,HSSC
+714,Waleed Khan,Bahtiar Ali Khan,Bannu,2023 student,773,HSSC
+715, Sher Azam,Ejaz Ahmad,Mansehra,"Domicile, CNIC Father and Student, Affidavit",939,Matric
+716,Shafaqat Ullah,Baid Ullah Jan,Lakki Marwat,only application + DMC,794,Matric
+717,Tufail Ahmad,Nadeem Ahmad,Charsadda,Private,896,HSSC
+718,Amin Ullah,Mir Akbar,Swabi,"Improper Affidavit, CNIC (F/S) Domicile etc.",896,Matric
+719,Mudasir Ahmad,Nadeem Ahmad,Charsadda,HSSC in Progress,417,HSSC
+720,Waqas Khan,Abdul Qayum,Buner,No affidavit,906,Intermediate
+721,Fajar Bibi,Ayaz,Peshawar,only application + Affidavit,905,HSSC
+722,Muhammad Hanif Qureshi,Muhammad Qasim Qureshi,Buner,"Affidavit, Domicile, CNIC (F/S)",913,Intermediate
+723,Muhammad Saad Hadi,Abdul Hadi,Swat,No Affidavit,794,Intermediate
+724,Muhammad Furqan,Gul Rehman,Lakki Marwat,Lower 60%,702,Matric
+725,Hazrat Ali,Umar Zaman ,Charsadda,"DMC, Affidavit, CNIC",776,Matric
+726,Azman Khan,Muhammad Nawab,Shangla,Improper Affidavit,969,Matric
+727,Muhammad Zubair,Habib Ullah Khan,Lakki Marwat,"Private, Domicile, CNIC (S/F)",1031,Matric
+728,Umar Nawaz,Muhammad Nawaz,Nowshera,"2022 student, private, Improper Affidavit",995,Intermediate
+729,Sawaira Aman,Aman Ullah,Mardan,Improper Affidavit,990,Matric
+730,Maryam Siddiq,Muhammad Siddiq,Peshawar,Improper Affidavit,977,HSSC
+731,Robina Bibi,Ghulam Yaseen,D.I Khan,only application form,1000,Matric
+732,Muhammad Sherpao,Almar Gul ,D.I Khan,No Affidavit,964,Matric
+733,Muhammad Aqil,Faqir Gul,Malakand,Improper Affidavit,854,Matric
+734,Hikmat Ali Khan,Bakhtiar Ali Khan,Bannu,"SSC Private 2023, HSSC DMC missing",415,HSSC
+735,Nasrullah Khan,Noor Ghani Khan,Bannu,"Ex-Student of 2023, Improver",901,Matric
+736,Muhammad Yousaf,Ajmal Jani,Swat,"No CNIC (F/S), Domicile",747,Matric
+737,Malaika Rehman,Mujeeb ur Rehman,Nowshera,no affidavit,840,Intermediate
+738,Alishba Gul,Muhammad Gul,Lakki Marwat,Irrelevant Attestion,887,Matric
+739,Syed Mudassir Ali Shah,Syed Munawar Ali Shah,Shangla,"Improver, Improper Affidavit",1035,Matric
+740,Hanif Ullah,Fazal Wadood,Shangla,Improper Affidavit,974,Matric
+741,Asim Ullah,Aurang Zeb,Shangla,Intermediate in Progress,382,Intermediate
+742,Usman Amjad,Amjad Hussain,Mansehra,"Private 2023, No Affidavit",839,HSSC
+743,Sameer Ali Shah,Mirza Nazar,Upper Chitral,"No CNIC, Domicile",829,Matric
+744,Arsalan Hasnain,Syed Sarwar Ahmad Shah,Chitral,"No CNIC, Domicile",946,HSSC
+745,Muhammad Ilyas,Anayat Ullah,Shangla,Improper Affidavit,916,Matric
+746,Khaista Rahman,Gul Rahman,Shangla,Improper Attestion,1006,Matric
+747,Naimat Shah,Rahman Uddin,Shangla,Improper Affidavit,867,Matric
+748,Omaima,Said Ali Khan,Swat,Private,833,Intermediate
+749,Ayesha,Asmat Ullah,Tank,"Improper Affidavit, HSSC DMC Deficiency",764,HSSC
+750,Alia Asmat,Asmat Ullah,Tank,"2023 student, Improper Affidavit",858,HSSC
+751,Laiba Farid,Farid ullah,Charsadda,no affidavit,1092,Matric
+752,Mahbub Ali ,Jehan Alam,swat,"2023 student, no Affidavit",749,F.A
+753,Qurat ul Ain ,Shahid Ali,Mardan,application and affidavit not attested properly,909,FSC
+754,farooq ahmad,gul Zaman,Buner,no affidavit no CNIC,854,FSC
+755,Neelam Khan,Fazal ur Rehman,D.I Khan,no father NIC/No affidavit,983,SSC
+756,Asad Ullah,habib ullah,Buner,"2023 student, Compart, No Affidavit, Domicile etc",843,FSC
+757,Muhammad ismail ,Taza khan,Shangla,no affidavit,1008,fsc
+758,Usman khan,Shahid Ahmad,Shangla,2023 student,785,FSC
+759,Faiza,Ghulam Yahya Khan,Haripur,"no affidavit, domcile, form-B CNIC",817,FA
+760,Muhammad Rafiq,Miher Rahman,Charsadda,Adminision at Private Student,980,SSC original copy out from the list and Forwarded to PEEF office for further necessary action on humanitarian basis
+761,Ibraheem-Faisal Mughal ,Faisal MaLIK Mughal ,Mansehra,no affidavit,837,FSC
+762,shafi ullah,Hashim Ali Khan,Bannu,"2023 student privte, ",951,SSC
+763,M. haris Akbar,Fazle Akbar,Peshawar,private,979,SSC
+764,Ihsan ullah,sajjad ali,Peshawar,2020 student,1013,FSC
+765,Mubashir Khan,Abdul Bashir Khan ,Bannu,"no affidavit, domcile, form-B CNIC",734,SSC
+766,Abdur Rehman,Saif ur Rehman,D.I Khan,"no affidavit, CNIC",793,ssc
+767,Muhammad Saad,Ali Muhammad,D.I Khan,no affidavit,963,SSC
+768,Muhammad Abdullah,Ghazi Marjan,D.I Khan,privite student 2023,909,SSC
+769,Aqsa bibi,Malik Aman,Mansehra,"Domcile, affidavit, form-B, CNIC",854,SSC
+770,Sana BiBi,Muhammad Ashraf,Mansehra,2023 student,792,SSC
+771,Naima Bibi,Ghulam Mohayyud-din,D.I Khan,no father NIC/No affidavit,869,HSSC
+772,Munazza Bibi,Wali ur Rehman,Mansehra,no father CNIC/ no affidavit,936,SSC
+773,Awais khan,Gulab Khan ,Mardan,"HSSC in progress, no affidavit, domcile, form-B",808,ssc
+774,Muhammad Aman,Hamdullah shah,Lakki Marwat,"no DMC, domicile, affidavit",353,SSc
+775,Mubashra Rauf,gul Rauf,Lakki Marwat,"no domcile, , irrelevatn affidavit ",907,SSC
+776,Sheraz Khan,Dilawar Khan,Lakki Marwat,"no domcile, no affidavit, 2021 priviate ",900,SSC
+777,Omais iqbal khan,iqbal khan ,Dir Lower,2023 students,759,SSC
+778,Salman aman,Aman ullah khan ,lakki Marwat,"2021 student no domcile, CNIC, Affidavit",848,SSC
+779,Ansa Bibi ,Ghulam Mohayyud-din,D.I Khan,"Ex-Student of 2024, compart, CNIC (F/S), no affidavit",796,HSSC
+780,Omair Iqbal Khan,Iqbal Ahmad, Dir Lower,"2023 student, no Affidavit",746,HSSC
+781,Sudais Iqbal Khan,Iqbal Ahmad,Dir Lower,"Private 2023, No Affidavit",807,HSSC
+782,Aalyan Naseem,Muhammad Naseem,Mansehra,"Affidavit, CNIC",725,Matric
+783,Zaka Ullah,Muhammad Awaz,Bannu,2023 student,924,Matric
+784,Mehran Khan,Abdul Muhammad,Charsadda,"CNIC, Domicile, Affidavit",1079,Matric
+785,Muhammad Junaid Khan,Jamil Khan,Lakki Marwat,"Private, Domicile, CNIC",901,HSSC
+786,Haseena ,anwar khan ,Lakki Marwat,wrong application or DMC,960,FSC
+787,Hajra Bibi,Fazal Alam,Charsadda,incompletee application,974,SSC
+788,Tanzeela Bibi,Attaullah,Charsadda,no father CNIC attach and,928,SSC
+789,Komal,Faridoon Khan,Peshawar,no father CNIC attach,926,SSC
+790,Asad khan ,Sardar Ali khan ,Lakki Marwat,out of merit,908,ssC
+791,Rafi Ullah,Abdullah,Shangla,out of merit,944,SSC
+792,Manahil Bibi,Gul Siyar,Charsadda,out of merit,942,SSC
+793,Mehreen Bibi,Hassan khan,Charsadda,out of merit,937,SSC
+794,Ishraq Ahamad,Samand khan,kohat,out of merit,936,SSC
+795,Saba Noor,Amir Noshad,Shangla,out of merit,935,SSC
+796,Shehla Shah,Rahmat Shah,Charsadda,out of merit,933,SSC
+797,Rahat Hussain ,Shoukat,Shangla,out of merit,932,SSC
+798,Muhammad sajjad,Falak naz Khan,Lakki Marwat,out of merit,927,SSC
+799,Fawad Ahmad,Jamil Ahmad,Lakki Marwat,out of merit,925,SSC
+800,Neelam Bibi,habib kHan,Charsadda,out of merit,922,SSC
+801,Muneeba Bibi,Nisar Ahmad,Charsadda,out of merit,918,SSC
+802,Fazal Hanan,Fazal Subhan,Shangla,out of merit,915,SSC
+803,Siddiqa Bibi,Aman Ullah,Charsadda,out of merit,915,SSC
+804,Paghounda masood ,Masood khan ,Mardan,out of merit,912,SSC
+805,Fayaz Khan,Baram shahzada,Bannu,out of merit,908,SSC
+806,Ahmad Ali basir,Abdl Basir,Lakki Marwat,out of merit,905,SSC
+807,Liaba ,Abdul Ghafar,Charsadda,out of merit,905,SSc
+808,Shafiur Rehman,Abdur Rehman,Lakki Marwat,out of merit,901,SSc
+809,Haseena khan ,Muqaddar Khan,Charsadda,"out of merit no NIC, Domcile",884,SSC
+810,Furqan Ahmad ,Umar Jamal,Karak,Private Student of 2023,884,HSSC
+811,Shafi Ullah,Shah Mahmood,Bajaur,"Ex-student of 2023, Compart",973,HSSC
+812,Sulaiman Khan,Asal Khan,Bajaur,"Ex-student of 2023, Compart",860,HSSC
+813,Shah Hussain,Khan Bahadur,Bajaur,BS in Progress,455/3.44 GPA,BS Zoology
+814,Asad Ullah,Shahid Ali,Bajaur,BS in Progress,3.42 GPA,BS Zoology
+815,Rahman Ud Din,Muhammad Nabi,Bajaur,BS in Progress,3.30 GPA,BS CS
+816,Abdullah,Gulshan,Bajaur,BS in Progress,3.60 GPA,BS Zoology
+817,Muhammad Bilal Khan,Jehanzeb Khan,Bajaur,BS in Progress,3.66 GPA,BS English
+818,Usman Ullah,Qazi Gul,Bajaur,BS in Progress,3.06 GPA,BS English
+819,Irshad Ullah,Lal Noor Khan,Bajaur,BS in Progress,3.29 GPA,BS Zoology
+820,Salah Uddin,Muhammad Nabi,Bajaur,BS in Progress,3.38 GPA,BS Commerce
+821,Muhammad Zubair,Baroz Khan,Mohmand,"Domicile, CNIC (F/S)",992/1400,Diploma in Commerce 
+822,Salman Khan,Rahman Ullah,Bajaur,BS in Progress,3.43 GPA,BS in Islamic Studies
+823,Amir Gul,Nabi Gul,Charsadda,Just Application form,833,Matric
+824,Ahmad Ali,Sheshti Gul,Peshawar,Just Application form,878,Matric
+825,Hakim Ullah,Itbar Khan,Bajaur,2022 student,952,Matric
+826,Hayat Ullah,Sher Ghazi,Bajaur,Private,926,HSSC
+827,Muhammad Zeeshan,Adam Khan,Mohmand,Domicile/CNIC (F/S),834,HSSC
+828,Tariq Aziz,Khan Wali,Mohmand,2023 Student,826,HSSC
+829,Sana Ullah,Gul Niaz,Mohmand,Domicile/CNIC (F/S),976,HSSC
+830,Adnan Khan,Fazal Noor,Bajaur,BS in Progress,3.74 GPA,BS English
+831,Sohail Ahmad,Itbar Khan,Bajaur,BS in Progress,3.07 GPA,BS Physics
+832,Said Badshah,Habib Gul,Bajaur,2023 student/BS in Progress,721,HSSC
+833,Muhammad Ismail,Janat Gul,Bajaur,BS in Progress,3.36 GPA,BS English
+834,Sanab Gul,Zamir Gul,Bajaur,BS in Progress,3.35 GPA,BS Islamic Studies
+835,Yusra Ibrahim,Muhammad Ibrahim,Malakand,FSc DMC Missing,1001,FSc
+836,Imran Khan,Taj Muhammad,Bajaur,2023 student,846,Intermediate
+837,Sajjad Ali,Asghar Khan,Bajaur,"2023, Ex-Private, Compart",859,HSSC
+838,Fazal Hanan,Fazal Hadi,Bajaur,No Domicile/CNIC,952/962,Matric
+839,Muhammad Abass,Sher Khan,Bajaur,BS in Progress,3.17 GPA,BS Islamic Studies
+840,Shah Zain,Jangriz Khan,Khyber,"currently studying DIT, the course not listed in criteria",910,HSSC
+841,Inayat Ullah,Muhammad Zada,Bajaur,BS in Progress,3.09 GPA,BS in CS
+842,Rahim Ullah,Muhammad Hanif,Bajaur,BS in Progress,3.61 GPA,BS Zoology
+843,Roh Ullah,Jamal-ud-Din,Bajaur,BS in Progress,3.32 GPA,BS Zoology
+844,Rahat Ullah,Saeed ur Rehman,Bajaur,2023/BS in Progress,3.53 GPA,BS in CS
+845,Basveer Ullah,Janat Gul,Mohmand,BS in Progress,3.10 GPA,BS in Botany
+846,Shah Alam,Rahim Shah,Mohmand,BS in Progress,3.68 GPA,BS in Chemistry
+847,Ubaid Ullah,Sher Bahadar,Mohmand,BS in Progress,3.13 GPA,BS in Physics
+848,Zabih Ullah,Sher Ahmad,Bajaur,BS in Progress,3.61 GPA,BS in Chemistry
+849,Zia ur Rahman,Manoon,Mohmand,"2022 ex-student, compart",863,Matric
+850,Bacha Rahman,Waheed Khan,Bajaur,BS in Progress,3.19 GPA,BS in Islamic Studies
+851,sajad ullah ,khushi Muhammad,Bajaur,BS in Progress,2.8,BS in Islamic Studies
+852,Muhammad Hussain,Fateh Rahman,Bajaur,BS in Progress,3.82 GPA,BS Zoology
+853,Nasir Ullah,Hamish Noor,Bajaur,BS in Progress,3.48 GPA,BS English
+854,Abid Ullah,Ziarat Gul,Bajaur,BS in Progress,3.44 GPA,BS in Computer Science
+855,Talha Khan,Muhammad Hashim,Bajaur,BS in Progress,3.56 GPA,BS English
+856,Muhammad Tawab,Zar Alam,Mohmand,2020 Student,698,Matric
+857,Shah Hussain,Maloom Khan,Mohmand,2019 student,531,Matric
+858,Zia Ullah,Bakht Jamal,Mohmand,2020 Student,916,Matric
+859,Muhammad Sadique,Badshah Muhammad,Bajaur,BS in Progress,3.30 GPA,BS English
+860,Muhammad Usman,Taj Muhammad,Bajaur,BS in Progress,3.19 GPA,BS English
+861,Muhammad Zahir,Muhammad Umar,Bajaur,BS in Progress,3.09 GPA,BS Political Science
+862,Rooh Ullah,Zahoor Khan,Bajaur,BS in Progress,3.13 GPA,BS Zoology
+863,Salman Khan,Hanif Ullah,Bajaur,"Ex-student of 2023, Compart",854,HSSC
+864,Zakir Ullah,Gulab Jan,Bajaur,BS in Progress,3.26 GPA,BS Zoology
+865,Hamid Ullah,Noor Ghulam,Bajaur,"Ex-Student, Improver, Compart",975,HSSC
+866,Khan Tasil,Sher Amin Khan,Bajaur,BS in Progress,3.23 GPA,BS English
+867,Shoaib ur Rahman,Faiz ur Rahman,Mohmand,DMC Deficiency,761,HSSC
+868,Waqar Ahmad,Lal Faqir Khan,Mohmand,incompletee Application,907,HSSC
+869,Shahzir Khan,Nawab Noor,Bajaur,incompletee Application,937,HSSC
+870,Aftab Nawaz,Sher Nawaz,Peshawar,"Ex-Student, Compart",920,HSSC
+871,Rizwan Ullah,Saeed ur Rahman,Bajaur,Out of Merit,954,Matric
+872,Faheem Ullah,Said Muhammad,Bajaur,"Ex-Student, Compart",959,HSSC
+873,Yasir Arafat,Alamgir Khan,Bajaur,Did not take further admission,962,Intermediate
+874,Hilal Salar,Ahmad Jan,Bajaur,Did not take further admission,980,HSSC
+875,Haleema Badshah,Badshah ud Din,Bajaur,Out of Merit,988,Matric
+876,Abubakar Sadiq,Badshah Rahman,Bajaur,Did not take further admission,1024,HSSC
+877,Zaid Ali,Liaqat Ali ,Bajaur,Out of Merit,1003,Matric
+878,Ali Khan,Didar Khan,Bajaur,No Form-B/CNIC,1095,Matric
+879,Rowaid Ullah,Habib Said,Bajaur,Father CNIC,1075,Matric
+880,Farhat Ullah,Sher Muhammad,South Waziristan,Out of Merit,1073,Matric
+881,Irshad Ali,Sher Afzal,Bajaur,Out of Merit,1069,Matric
+882,Sabir Ullah,Ali Muhammad,Bajaur,Out of Merit,1068,Matric
+883,Muhammad Abubakar,Hazrat Muhammad,Bajaur,Out of Merit,1069,Matric
+884,Abid Ullah,Nawab Zada,Bajaur,Out of Merit,1068,Matric
+885,Muhammad Ismail,Khan Zada,Bajaur,Out of Merit,1066,Matric
+886,Muhammad Amjad,Rab Nawaz Khan,Bajaur,Out of Merit,1066,Matric
+887,Aman Khan,Israt Khan,Mohmand,Out of Merit,1066,Matric
+888,Kashif Ahmad,Shamshad Khan,Mohmand,Out of Merit,1066,Matric
+889,Ismail Khan,Said Muhammad,Bajaur,Out of Merit,822,HSSC
+890,Rizwan Ullah,Bakht Munir,Mohmand,Out of Merit,855,HSSC
+891,Bilal Ahmad,Sher Bahadar,Bajaur,Out of Merit,838,HSSC
+892,Ubaid Ullah,Allah Jan,South Waziristan,Out of Merit,866,HSSC
+893,Bilal Ahmad,Manaras Khan,Bajaur,Out of Merit,807,HSSC
+894,Zia Ullah,Alam Zaib,Bajaur,Out of Merit,826,HSSC
+895,Rahim Ullah,Sami Ullah,Bajaur,Out of Merit,854,HSSC
+896,Salah Uddin Ayubi,Mustaqeem Jan,Bajaur,Out of Merit,817,HSSC
+897,Muhammad yaseen,Fordil,Bajaur,Out of Merit,752,HSSC
+898,Shaukat Ullah,Taj Wali Khan,Bajaur,DAE in Progress,819/1150,Diploma in Associate Engineer
+899,Bilal Ahmad,Gul Yousaf,Bajaur,Out of Merit,884,HSSC
+900,Muhammad Ghafar Khan,Rasool Jan,Bannu,Out of Merit,798,HSSC
+901,Saddam Khan,Zia ul Haq,Bajaur,Out of Merit,915,Matric
+902,Mudassir Khan,Kifayat Ullah,Bajaur,Out of Merit,909,Matric
+903,Naeem Ullah,Gul Wahab,Bajaur,Out of merit,1064,Bajaur
+904,Alauddin,Wahid Jan,Bajaur,Out of Merit,1064,Matric
+905,Sara Bibi,Nawab Zada,Bajaur,Out of Merit,1061,Matric
+906,Waqas Ahmad,Abdul Qayum,Bajaur,Out of Merit,1059,Matric
+907,Shehzad Ahmed,Muhammad Ayaz Khan,Mohmand,Out of Merit,1059,Matric
+908,Hira Bibi,Muhammad Shoaib,Bajaur,Out of merit,1057,Matric
+909,Rizwan Ullah,Gul Zada,Bajaur,Out of Merit,1053,Matric
+910,Muhammad Asif,Fazal Maula,Bajaur,Out of Merit,1053,Matric
+911,Muhammad Abbas,Saidaram Khan,Bajaur,Out of Merit,1051,Matric
+912,Khalid Khan,Muhammad Khan,Bajaur,Out of Merit,1046,Matric
+913,Malak Anis ur Rehman,Malak Hassan,Bajaur,Out of Merit,1045,Matric
+914,Haroon Rashid ,Habib Ullah,Bajaur,Out of Merit,1044,HSSC
+915,Rahat Ullah,Muhammad Said,Bajaur,Out of Merit,1044,Matric
+916,Noor Ullah,Zahir Shah,Bajaur,Out of Merit,1042,Matric
+917,Rooh Ullah,Malang Jan,Bajaur,Out of Merit,1041,Matric
+918,Ali Dad,Khan Dad,Khyber,Out of Merit,1041,Matric
+919,Jawad Ahmed,Fazal Wahid,Bajaur,Out of Merit,954,Matric
+920,Nisar Ahmad,Said Badshah,Bajaur,Ou tof Merit,892,Matric
+921,Raza Ullah,Hamid Ullah,Bajaur,Out of Merit,758,Matric
+922,Sohail Khan,Muhammad Hakim,Bajaur,Out of Merit,968,Matric
+923,Rahid Ullah,Khan Muhammad,Bajaur,Out of Merit,922,Matric
+924,Inam Ullah,Liaqat Ali,Bajaur,Out of Merit,1034,Matric
+925,Muhammad Adil,Alaf Gul,Charsadda,Not a bonafide student of Khyber,1035,Matric
+926,Shoaib Khan,Naseeb Jan,Bajaur,Out of Merit,1032,Matric
+927,Hazrat Ullah,Shaukat Ali,Bajaur,Out of Merit,1030,Matric
+928,Abdul Shakoor,Taj Muhammad,Bajaur,Out of Merit,1036,Matric
+929,Mumraz Khan,Malang Jan,Bajaur,Out of Merit,1037,Matric
+930,Saliman Khan,Muhammad Ishaq,Bajaur,Out of Merit,1038,Matric
+931,Muhammad Hamza,Muhammad Yaqub Khan,Bajaur,Out of Merit,1039,Matric
+932,Ibad Ullah,Musharaf Khan,Bajaur,Out of Merit,1040,Matric
+933,Manahel Ali,Allah Noor,Tank,Out of Merit,972,Matric
+934,Rabeen Ullah,Noor Rehman,South Waziristan,Out of Merit,1017,Matric
+935,Usman Ali ,Abdul Qayum Khan,Bajaur,Out of Merit,1025,Matric
+936,Zabih Ullah,Gul Rasool,Bajaur,Out of Merit,1025,Matric
+937,Sajid Ullah,Said Ayoub Khan,Bajaur,Out of Merit,1011,Matric
+938,Hanzala Khan,Pacha Gul,Bajaur,Out of Merit,1008,Matric
+939,Ibad Ullah,Areen Khan,Bajaur,Out of Merit,1001,Matric
+940,Nazeeb Ullah,Sadbar Khan,Bajaur,Out of Merit,1004,Matric
+941,Zabih Ullah,Masaud Khan,Bajaur,Out of Merit,1028,Matric
+942,Muhammad Kamran,Fazal Muhammad,Bajaur,Out of Merit,1036,Matric
+943,Amir Khatam,Sahib Khan,Bajaur,Out of Merit,988,Matric
+944,Javid Ullah,Rahman Ullah,Bajaur,Out of Merit,970,Matric
+945,Usman Ali,Muhammad Ashraf,Bajaur,Out of Merit,945,Matric
+946,Liaqat Ali,Muzafar Khan,Bajaur,Out of Merit,919,Matric
+947,Mihran Khan,Anwar Zeb Khan,Bajaur,Out of Merit,980,Matric
+948,Abdur Rauf,Yousaf Khan,Mohmand,Out of Merit,857,Matric
+949,Alina Arif,Muhammad Arif Khan,Lakki Marwat,Deficiency of Domicile + CNIC,885,HSSC
+950,Areesh Aftab,Aftab Ahmad,Lakki Marwat,Deficiency of Domicile + CNIC,889,HSSC
+951,Abdul Wahid,Shah Muslim,Bajaur,Out of Merit,1062,Matric
+952,Waqas Ahmad,Gull Hasan,Bajaur,Out of Merit,955,Matric
+953,Zainab Aamir,Aamir Mughal,Peshawar,"Private, No DMC",920,HSSC
+954,Zulkifal Ishaq,Muhammad Ishaq,Mardan,Private Student,864,Intermediate
+955,Muhammad Ismail,Haider Zaman,Peshawar,Irrelevant Attestion,768,HSSC
+956,Muhammad Zubair,Murad Ali Shah,Nowshera,No Affidavit,740,Matric
+957,Muhammad Asif,Muhammad Wali,Charsadda,No Affidavit,911,Matric
+958,Fatima Shaukat ,Shaukat Khan,Lakki Marwat,2023 Student,942,HSSC
+959,Fehmida Nasir,Nasir Mehmood,Chitral,"No Domicile, Affidavit, CNIC",877,Matric
+960,Muhammad Ismail,Ishfaq Ahmad,Peshawar,Private Student,921,Matric
+961,Aisha Nayab Babar,Altaf Ullah Babar,Peshawar,2022 student,1024,HSSC
+962,Naseeb Zaree,Buzurg Muhammad,Dir Upper,"2023 Student, Ex-Compart",694,HSSC
+963,Hina Siyar,Siyar Muhammad,Charsadda,2023 Student,652,HSSC
+964,Shegufta Naz,Roziman Shah,Chitral,2020 Student,873,Intermediate
+965,Sawera Hussain,Syed Fateh Hussain Shah,Chtral,2021 Student,836,HSSC
+966,Inayat Ullah,Israr Ullah,Mardan,Private Student (Fizia Degree College),973,Matric
+967,Muhammad Hamad,Farid Ullah,Peshawar,2022 Student,681,HSSC
+968,Zainab Waseem Abbasi,aseem Ahmed Abbasi,Abbottabad,2023 Student,807,HSSC
+969,Nahia,Nazir Bacha,Buner,"Out of Merit, Improper Affidavit",894,Matric
+970,Muhammad Roman,Aziz ur Rehman,Lakki Marwat,2023 Student,736,HSSC
+971,Asif Ullah,Muhammad Layaq Said,Dir Upper,No Affidavit,771,Matric
+972,Yasir Amin,Muhammad Amin,Dir Upper,No Affidavit,1023,Matric
+973,Laiba Said,Syed ur Rahman,Lakki Marwat,incompletee Application + Affidavit,864,HSSC
+974,Muskan Khan,Mahabat Khan,Lakki Marwat,DMC Deficiency,846,Matric
+975,Gulalay Iftikhar,Iftikhar un Nabi,Mardan,"DMC, DOmicile, CNIC deficiency",539,Matric
+976,Muhammad Raziq,Kachkol Amin,Swabi,2023 Student,907,Intermediate
+977,Muhammad Mohsin,Nek Dar Ali Shah,Bannu,"HSSC in Progress, Improper Affidavit",937,Matric
+978,Abdullah,Muhammad Sultan,Mardan,HSSC in Progress,406,HSSC
+979,Said Abubakkar,Said Akbar Shah,Malakand,2023 Student,807,HSSC
+980,Adil Muhammad,Said Muhammad,Swabi,Improper Affidavit,1107,Matric
+981,Abdullah,Khurshid,Swat,Improper Attestion,853,Matric
+982,Muhammad Shoaib,Raqib Khan,Lakki Marwat,2023 Student,929,Matric
+983,Muskan Gul,Salim Gul,Lakki Marwat,"Lower 60%, Affidavit not Attested",717,Matric
+984,Haseena Alam,Ameer Alam,Lakki Marwat,Improper Attestion,924,Matric
+985,Muhammad Usman,Sahib Gul,Malakand,Private Student,1069,Matric
+986,Alisha Akhtar,Ghulam Hur,Lakki Marwat,No Attestation,885,HSSC
+987,Muskan Islam,Muhammad Islam,Malakand,Out of Merit,835,HSSC
+988,Romana Rauf,Abdur Rauf Khan,Lakki Marwat,Irrelevant Attestion,925,HSSC
+989,Muneeba Bibi,Muhammad Farooq,Swat,"2022 student, Improper Affidavit",896,Intermediate
+990,Aftab Ali,Sana Gul,Buner,"CNICs, Affidavit Deficiency",950,Intermediate
+991,Asma Hassan,Muhammad Hassan,Mardan,"2021, Private,Compart, Improper Affidavit",908,Intermediate
+992,Rukhsana,Haji Amir Ghulam,Lakki Marwat,"2023, Ex-Student, Improver",889,HSSC
+993,Nimra,Ghlam Mohiu Din,Lakki Marwat,"DMC, Affidavit Deficiency",1030,Matric
+994,Nasar Hayat,Umar Hayat,Swat,Private,878,Matric
+995,Irshad Ullah,Said Rasool,Lakki Marwat,Irrelevant Attestion,961,Matric
+996,Lazim Khan,Matin,Buner,"CNIC, Affidavit",967,Intermediate
+997,Mehran Akbar,Fazal Mehmood,Bajaur,Out of Merit,793,HSSC
+998,Ulfat Bibi,Amir Muhammad,Bajaur,Out of Merit,711,Matric
+999,Raqim Ullah,Khan Munir,Bajaur,Out of Merit,870,HSSC
+1000,Mehak Rebqa,Waris Masih Khokhar,Mohmand,Out of Merit,747,HSSC
+1001,Saima Noureen,Ahmad Baseer,Karak,"Ex-Private, Compart",1006,HSSC
+1002,Sami ur Rehman,Hazrat Ali,Dir Upper,"Ex-Student, Compart, Improper Attestation",898,HSSC
+1003,Laiba Muthahir Shah,Muthahir Shah,Charsadda,No Affidavit,903,HSSC
+1004,Aneela Rehmat Ullah,Rehmat Ullah,Charsadda,Private 2023,814,HSSC
+1005,Wareesha Ali,Liaqat Ali,Charsadda,Private,1055,HSSC
+1006,Muhammad Hammad,Nasir ud Din,Lakki Marwat,No Photos,881,HSSC
+1007,Laiba,Sanif Gul,Buner,CNICs Deficiency,736,Intermediate
+1008,Eman Raees,Raees Khan,Lakki Marwat,"CNIC, Domicile Deficiency",980,Matric
+1009,Imran Ali Shah,Muhammad yousaf Shah,Lakki Marwat,Private,790,Matric
+1010,Nimra Qusain,Inam Ullah,Lakki Marwat,Improper Attestation,988,Matric
+1011,Zainul Arifeen,Muhammad Fazal Khan,Chitral,"Ex-Private of 2023, Compart, Affidavit",735,HSSC
+1012,Anas Farhan Sardar,Abdus Samad Khan,Lakki Marwat,Private,1047,Matric
+1013,Shahla Ijaz,Ijaz Adil,Peshawar,"2021, Lower 60%",586,HSSC
+1014,Rameen Mukhtiar,Mukhtiar Ahmad Khalil,Peshawar,"Private, Lower 60%",679,HSSC
+1015,Nayab Muneer,Muhammad Muneer,Peshawar,"2023, Lower 60%",628,HSSC
+1016,Misal Merry,Rehmat Masih,Nowshera,"2021 student, Improper Affidavit",802,Intermediate
+1017,Sawera Khalil,Khalil ur Rehman,Karak,"2019 Private, Improper Affidavit",920,HSSC
+1018,Sadiq Shah,Rahman Gul,Peshawar,No Affidavit,1053,Matric
+1019,Afsar Ali,Kala Khan,Shangla,"2023 Student, Improper Affidavit",694,Matric
+1020,Sheikh Ahmad Sami ,Sheikh Samiullah,D.I Khan,"Compart, Domicile, CNIC, Improper Affidavit",1018,Matric
+1021,Muhammad Asif,Gul Nawar Shah,Swabi,Improper Affidavit,1052,Intermediate
+1022,Muhammad Afnan,Hidayat Ullah,Tank,Only Application Form,721,Matric
+1023,Esha Eman,Muhammad Farooq,Lakki Marwat,2023 Student,918,HSSC
+1024,Amjad Ullah,Sait Ullah Khan,Lakki Marwat,2023 student,723,HSSC
+1025,Sajal Ismail,Muhammad Ismail Khan,Lakki Marwat,irrelevant attestation ,912,Matric
+1026,Mohsin Ahmed,Khurshid Ahmad,Lakki Marwat,Irrelevant Attestion,995,Matric
+1027,Hawa Maryam,Mujahid,Swabi,"CNIC, incomplete/Unattested Affidavit",974,Intermediate
+1028,Faheem Abbas,Liaqat Ali,Kurrum,Private,1033,Matric
+1029,Syed Qammar Abbas,Sayed Tahir Hussain,Kurrum,Private,981,Matric
+1030,Muhammad Nauman,Zaman Khan,Peshawar,"Domicile, CNIC, Affidavit not filled/attested",916,HSSC
+1031,Abdullah,Muhammad Muzafar Said,Dir Upper,"Ex Student of 2023, Compart, No Affidavit",886,Matric
+1032,Sajjad Khan,Imdad Khan,Mardan,Intermediate in Progress,393,Intermediate
+1033,Nimra Bibi,Mehar Rahman,Charsadda,2023 Student,934,HSSC
+1034,Fatima Wahab,Abdul Wahab Chishti,Lakki Marwat,"CNIC, Domicile Deficiency",967,Matric
+1035,Aresha Wahab,Abdul Wahab Chishti,Lakki Marwat,"CNIC, Domicile Deficiency",933,HSSC
+1036,Munazza Usman,Usman Ghani,Swabi,Improper Affidavit,1014,Intermediate
+1037,Muhammad Huzaifa Khan,Maqsood Ali,Nowshera,2021 Private,742,Intermediate
+1038,Asghar Khan Jadoon,Muhammad Arif,Swabi,"HSSC DMC Doubtful (Matric 2023 and HSSC 2024), Improper Affidavit",799,Intermediate
+1039,Babar Iqbal,Muhammad Iqbal,Mardan,Private,844,Intermediate
+1040,mustafa Ali Qureshi,Mazhar Ali Qureshi,Peshawar,"Private, No Affidavit",1009,HSSC
+1041,Aayan Ali,Jan Wali,Peshawar,"Private, No Affidavit",966,HSSC
+1042,Muzamil Khan,Muhammad Sohail,Bannu,2023 Student,911,HSSC
+1043,Muhammad Ihsan Ullah,Dawar Khan,Bajaur,Out of Merit,799,HSSC
+1044,Muhammad Hamza Afridi,Khayat Syed Khan Afridi,Peshawar,Out of Merit,747,HSSC
+1045,Muhammad Sudais ,Abdul Qadeer Khan,Lakki Marwat,"2023, Improver",959,HSSC
+1046,Muhammad Shabeer,Muhammad Bashir,Charsadda,No Affidavit,1108,Matric
+1047,Nadar Ali,Aqal Zeb,Shangla,"Improper Affidavit, CNIC",914,Matric
+1048,Asiya Qayyum,Syed Abdul Qayyum,Lakki Marwat,2022 Student,888,HSSC
+1049,Tayaba,Muslim Khan,Charsadda,2021 Private,860,HSSC
+1050,Tanzeela,Mehraban Shah,Charsadda,Improper Affidavit,881,HSSC
+1051,Muqaddas BIBI,Tehsin Ullah,Tank,incompletee documents,908,Matric
+1052,Shujat Ahmad,Islam ud Din,Chitral,no affidavit attached,1068,SSC
+1053,Uzma Zaheer,Zaheer-U-Din,Charsadda,"Student 2021, lower 60%",480,HSSC
+1054,Wisal Gul,Ali Rehman,Karak,Improper affidavit,895,SSC
+1055,Sulait Ahmad,Samar Gul,Lakki Marwat,Lower 60%,699,HSSC
+1056,Riyan Qureshi,Rais Khan,Bannu,"Private, No affidavit",949,SSc
+1057,Bushra Bibi,Sikandar khan,Malakand,Just Application form,758,FSC
+1058,Muhammad Shehzad,Muhammad Qaiser,D.I Khan,"Improper affidavit, CNIC/from-B ",1023,SSC
+1059,M. Abdullah ,Asim Khan,Swat,Improper affidavit,885,SSC
+1060,Muhsin Ullah Kha  ,Niamat Ullah Khan ,Bannu,no affidavit attached,834,SSc
+1061,Muhammad ,Ghulam Muhammad,D.I Khan,"improper affidavit, compart",991,SSC
+1062,Muhammad Fawad,Sher Amir,Lakki Marwat,private,746,HSSC
+1063,Muhammad Uzair,Muhamamd Anas,swabi,"no form-B, domcile ",726,SSC
+1064,Nizar  Muhammad,Faiz Muhammad ,Swabi,"2022, private, improper  affidavit",745,SSc
+1065,Ibrahim Khan,Chaman Khan,Swabi,"Private, lower 60%, No affidavit",715,SSc
+1066,Abu Huraira,Said Ul Abrar,Swabi,"No Domicile, form B, NIC",936,SSC
+1067,Kibria Khan  ,Amriz Khan,Swabi,Private student,914,SSc
+1068,Hammad Elahi,Sharif Khan ,Chitral,no affidavit,1076,SSC
+1069,Warda Gul,Alamgir Khan,Tank,"No DMC, Domcil, CNIC, form B",832,SSC
+1070,Ifhan Ullah,Aman Ullah,Chitral,"Private, No Affidavit",1050,Matric
+1071,Adeeb ur Rehman,Muhammad Shaukat,Chitral,No Affidavit,1018,Matric
+1072,Haseena Bibi,Samin ul Haq,Swabi,No CNIC/Domicile,908,Intermediate
+1073,Maimoona Jehan,Shah Jahan,Swabi,No Domicile,887,Intermediate
+1074,Kiran Anwar,Anwar Ali,Swabi,No Domicile,960,Intermediate
+1075,Sania Shahid,Shahid Ishfaq,Swabi,Private,957,Intermediate
+1076,Maryam Shah,Iftikhar Ali Shah,Swabi,Private,1019,Matric
+1077,Aiman Hashim,Hashim Khan,Swabi,No Domicile,800,Intermediate
+1078,Sara Iqbal,Muhammad Iqbal,Charsadda,"2023 Student, Ex-Compart",882,HSSC
+1079,Al Husna ,Muhammad Hanif Khan,Lakki Marwat,"No Domicile, CNIC",880,HSSC
+1080,Afira Bibi,Hussain Ahmad,Lakki Marwat,No Domicile,892,HSSC
+1081,Nasir Ahmad,Fazal Gul,Swabi,Private Student,901,Matric
+1082,Usman Ali,Wahid Gul,Swat,Improper Affidavit,899,Intermediate
+1083,Awais Hakim,Abdul Hakim,Buner,Private,855,Matric
+1084,Maham Ahmad,Zulfiqar Ahmad,Kohat,"Private-2022, No Affidavit, Higher Studies in progress",982,HSSC
+1085,Muhammad Ayub,Zafar Ali Khan,Bannu,"Only DMC, Application, and Death Certificate, Private",910,Matric
+1086,Shumaila,Shah Niaz Khan,Bannu,"2020 Student, Affidavit not filled properly, BS in Progress/no not attached",749,HSSC
+1087,Tayyeba Bibi,Abdur Rehman,Swabi,"No Domicile, CNIC",789,Intermediate
+1088,Zohaib Khan,Mazeed Khan,Bannu,2023 Student,770,Matric
+1089,Adeela Hassan,Hassan Ali Khan,Swabi,"No Domicile, CNIC",849,Intermediate
+1090,Mubeena Gul,Shah Zareen Khan,Swabi,"No Domicile, CNIC",982,Intermediate
+1091,Sumayya Jahan,Jahan Bahadar,Swabi,Private,914,Intermediate
+1092,Muhammad Hashir,Sahibzada Muhammad Tariq,Charsadda,"Private, No Affidavit",1003,Matric
+1093,Muhammad Anas,Shamshad Khan,Charsadda,No Affidavit,904,Matric
+1094,Zuhaib Kamal,Muhammad Ibraheem,Lakki Marwat,Improper Affidaivt,882,HSSC
+1095,Muqaddis Majeed,Majeed Khan,Karak,No Affidavit,949,Matric
+1096,Noor Dadullah,Pirdat Khan,North Waziristan,only application + Affidavit,954,Matric
+1097,Tariq Aziz,Amal Zeb,Shangla,Improper Affidavit,912,Matric
+1098,Kashif Khan,Zaheer Uddin,Charsaq,Private Student,2199/3450,DAE Civil Engineering
+1099,Simab,Obaid Ullah Jan,Lakki Marwat,Improper/Irrelevant Attestion ,1001,Matric
+1100,Laraib Gull,Wai Muhammad,Tank,Improper Attestation,843,Matric
+1101,Zeenat un Nisa,Abdul Qayyum Khan,Lakki Marwat,irrelevant attestation ,847,HSSC
+1102,Naheeda Bibi,Jan Muhammad,Lakki Marwat,Improper Attestation,899,HSSC
+1103,Ahtisham Khan,Khan Baz Khan,Bannu,"Lower 60%, CNIC, Affidavit",655,Matric
+1104,Wajeeha,Nighmat Ullah Khan,Buner,"No DMC, Domicile, CNIC",656,Matric
+1105,Safia,Bahadar Zaman,Bannu,"No Domicile/Form-B, DMC, 2023 student",--,HSSC
+1106,Sohail Ahmad,Fazal Amin,Swabi,Improper Affidavit,955,Matric
+1107,Muhammad Amaar,Shafqat Hussain,D.I Khan,"Domicile, Affidavit, CNIC",1057,Matric
+1108,Rooh Niaz Khan,Rahmat Ayaz Khan,Bannu,HSSC under Progress,493,HSSC
+1109,Ajay,Jamshaid,Kohat,"2021, Private, Affidavit",952,HSSC
+1110,Naimat Ullah,Jehan Zeb,Swat,Improper Affidavit,803,Intermediate
+1111,Naifa,Shah Niaz Khan,Bannu,"2018, Lower 60%, Irrelevant Attestation",652,HSSC
+1112,Sadia Majeeed ,Abdul Majeed,Lakki Marwat,Improper Attestation,753,HSSC
+1113,Salman Hussain,Khaista Khan,Mardan,"No Affidavit, Domicile, CNIC",1125,Matric
+1114,Afnan Ali Shah,Muhammad Yousaf Shah,Lakki Marwat,HSSC in progress,405,HSSC
+1115,Khalil Ullah,Muhammad Umar,Shangla,No Affidavit,958,Matric
+1116,Shehla Gulzar,Gulzar,Tank,Improper Affidavit Attestation,1029,Matric
+1117,Muhammad Asad,Raqib Nawaz,Bannu,No CNIC/Domicile,1007,Matric
+1118,Tahira Gulzar,Gulzar,Tank,irrelevant attestation ,960,Matric
+1119,Marwan Khan,Abdul Jabbar Khan,Bannu,"2023, Ex-improver",848,HSSC
+1120,Gul Amber,Hashmat Khan,Tank,Unattested Affidavit,908,Matric
+1121,Zeeshan Khan,Mir Qad Ayaz Khan,Bannu,Improper Affidavit,1061,HSSC
+1122,Muhammad Abdus Salam,Muhammad Karam,Swat,No Affidavit,1032,Intermediate
+1123,Ansa Sajjad,Sajjad,Tank,Unattested Affidavit,899,Matric
+1124,Haleema Begum,Muhib Shah,Charsadda,No Affidavit,1016,Matric
+1125,Muhammad Junaid,Kalim Ullah,Tank,"Affidavit, DMC, Domicile, CNIC (HSSC seems under progress)",376,SSC/HSSC
+1126,Nimra Imtiaz,Imtiaz un Nabi,Mardan,"DMC, DOmicile, CNIC deficiency",556,Matric
+1127,Muhammad Salman,Hussain Ahmad,Lakki Marwat,Irrelevant Attestation,1030,Matric
+1128,Muniba Arif,Muhammad Arif Khan,Lakki Marwat,"CNIC, Domicile, CNIC deficiency",827,Matric
+1129,Muhammad Uzair,Khalid Khan,Charsadda,"Affidavit, Domicile, CNIC",1109,Matric
+1130,Muhammad Rehan Noor,Noor Muhammad,D.I Khan,No Affidavit,964,Matric
+1131,Muhammad Kamran Khan,Gul Nawaz Khan,Lakki Marwat,2023 student,845,Matric
+1132,Saqib Ullah,Khan Zaman,Lakki Marwat,2023 student,698,Matric
+1133,Shah Fahad Khan,Waeed Jan,Charsadda,No Affidavit,843,Matric
+1134,Maryam Bibi,Razi Ullah Khan,Lakki Marwat,irrelevant attestation,912,Matric
+1135,Shayan Ali,Asmat Ali,Swat,Irrelevant Attestation,995,Matric
+1136,Sami Ullah,Lalmat Khan,Peshawar,2023 student,773,HSSC
+1137,Aiman Tabassum,Noor Zad Gul,Malakand,Private,1039,Matric
+1138,Sana Bibi,Asghar Khan,Malakand,Private,913,Matric
+1139,Rafsan Ali,Said Taab,Shangla,Improper Affidavit,986,Matric
+1140,Aiman Yaseen,Muhammad Yaseen,Swabi,2023 Student,980,Intermediate
+1141,Ume Sulaim,Abdul Ali,Lakki Marwat,Irrelevant Attestation,900,HSSC
+1142,Daim Gull,Robin Gull,Bannu,"No Affidavit, CNIC, Domicile",962,Matric
+1143,Ayesha Noor,Noor Muhammad,D.I Khan,"2022 student, No Affidavit",952,HSSC
+1144,Hafsa Nazir,Nazir Muhammad,Lakki Marwat,Irrelevant Attestation,954,Matric
+1145,Muhammad Afnan,Mir Sahib Khan,Tank,"DMC, Affidavit",816,SSC/HSSC
+1146,Nida Gul,Sartaj Gul,Charsadda,"CNIC, Attestation unreadable",993,HSSC
+1147,Aleena Rahman,Noor Rahman,Charsadda,Private,1017,HSSC
+1148,Aleeba,Sadat Mand,Charsadda,Private,996,HSSC
+1149,Zulaikha Bibi,Sareeh Ullah,Charsadda,Private,1011,HSSC
+1150,Shazia Begum,Shamoz Khan,Charsadda,2022 student,773,HSSC
+1151,Yumna Siraj,Muhammad Siraj,Charsadda,"Ex-Student, Private, Compart",989,HSSC
+1152,Hajra,Rahman Ullah,Charsadda,2023 Student,749,HSSC
+1153,Musarat Shaheen,Mashal Khan,Lakki Marwat,No CNIC/Domicile,830,HSSC
+1154,Spogmai Ali,Ali Bahadar,Charsadda,CNIC Deficiency,932,HSSC
+1155,Nayab,Khaista Rahman,Charsadda,Improper Attestation,902,HSSC
+1156,Salma Begum,Khan Zareen,Charsadda,"Ex-Student of 2024, Compart",841,HSSC
+1157,Alishba Sardar,Syed Sardar Shah,Charsadda,Improper Affidavit,819,HSSC
+1158,Halima Syed,Syed Muhammad Shah,Charsadda,Improper Affidavit,838,HSSC
+1159,Anosha Bibi,Sajjad Ahmad,Charsadda,"Private, Compart",1071,HSSC
+1160,Aiman Bibi,Salah ud Din,Tank,Irrelevant Attestation,854,Matric
+1161,Javairia Kausar ,Waheed Ali Shah,Nowshera,No Affidavit,1113,Matric
+1162,Maryam Khan,Ejaz Khan,Haripur,"Received after due date. Photo, Domicile, Private",1075,HSSC
+1163,Salah Uddin,Zardad Khan,Lakki Marwat,2023 student,1013,Matric
+1164,Mehreen Bibi,Muhammad Shair,Mansehra,"SSC 2023 under progress, Domicile, CNIC",498,Matric
+1165,Jalwa Khan,Ishtiaq Ahmad,Swabi,"Domicile, CNIC, Affidavit",769,Matric
+1166,Majeed Ullah,Baba ud Din,Swat,Irrelevant Affidavit,833,Intermediate
+1167,Ihsan ud Din,Gul Din,Shangla,"Domicile, CNIC, Affidavit",1011,Matric
+1168,Sana Bibi,Janzada,Charsadda,Improver,978,Matric
+1169,Sana Ara,Muhammad Rafiq,Lakki Marwat,Irrelevant Attestation,897,HSSC
+1170,Hafsa Bibi,Misbah ud Din,Nowshera,No Affidavit,1039,Matric
+1171,Aman Ullah,Faraz Khan,Bajaur,Out of Merit,986,Matric
+1172,Naseer Ullah,Jan Badshah,Bajaur,Out of Merit,1029,Matric
+1173,Hanif Ullah,Aman Ullah,Bajaur,Out of Merit,1028,Matric
+1174,Luqman Khan,Sahib Rahman,Mohmand,out of Merit,1027,Matric
+1175,Kamran Khan,Jan Muhammad,Bajaur,Out of Merit,1026,Matric
+1176,Sultan Zeb,Taj Mir Khan,Bajaur,Out of Merit,1026,Matric
+1177,Sana Zaman,Qamar Zaman,Bajaur,Out of Merit,1023,Matric
+1178,Zia Ullah,Yousaf Khan,Bajaur,Out of Merit,1023,Matric
+1179,Neelma Noor,Allah Noor Khan,S. Waziristan,Out of Merit,1022,Matric
+1180,Marwan Ahmad,Abdur Rahman,Bajaur,Out of Merit,1021,Matric
+1181,Kashif Ullah,Rahim Ullah,Bajaur,Out of Merit,1021,Matric
+1182,Aziz Ullah,Anwar Said,Bajaur,Out of Merit,1019,Matric
+1183,Aman Ullah,Raj Muhammad,Bajaur,Out of Merit,1018,Matric
+1184,Nihayat Rifat ,Ayaz Khan,Bajaur,Out of Merit,1017,Matric
+1185,Salma Bibi,Inayat ur Rehman,Bajaur,Out of Merit,1016,Matric
+1186,Idrees Khan,Khaista Sultan,Bajaur,Out of Merit,1016,Matric
+1187,Amina Bibi,Masih Ullah,Bajaur,Out of Merit,1015,Matric
+1188,Irshad Ullah,Islam Gul,Bajaur,Out of Merit,1013,Matric
+1189,Nasir Ahmad,Sher Ahmad,Bajaur,Out of Merit,1012,Matric
+1190,Raqib Ullah,Faiz ur Rahman,Bajaur,Out of Merit,1012,Matric
+1191,Siraj Uddin,Ihsan Ullah,Bajaur,Out of Merit,1011,Matric
+1192,Faheem Khan,Khan Badshah,Bajaur,Out of Merit,1011,Matric
+1193,Musa Khan,Muhammad Hashim,Mohmand,Out of Merit,1011,Matric
+1194,Farishta Khan,Yar Zaman Khan,Bajaur,Out of Merit,1010,Matric
+1195,Sohail Ahmad,Sahibul Haq,Bajaur,Out of Merit,1010,Matric
+1196,Kaleem Ullah,Gul Habib Jan,Bajaur,Out of Merit,1010,Matric
+1197,Waqas Ahmad,Amani Khan,Mohmand,Out of Merit,1008,Matric
+1198,Muhammad Huzifa,Qadim Khan,Bajaur,Out of Merit,1008,Matric
+1199,Usman Ghani,Akhtar Gul,Mohmand,Out of Merit,1004,Matric
+1200,Farhat Ullah,Muhammad Rahim ,Bajaur,Out of Merit,1004,Matric
+1201,Haroon Rashid ,Gulzar Ahmad,Bajaur,Out of Merit,1003,Matric
+1202,Abubakar Sidique,Aziz Ullah,Bajaur,Out of Merit,1003,Matric
+1203,Abid Ali,Naseer Ullah,Mohmand,Out of Merit,1002,Matric
+1204,Roman Khan,Abdul Hakim,Bajaur,Out of Merit,897,Matric
+1205,Hansa Bibi,Sher Afzal Khan,Bajaur,Out of Merit,843,Matric
+1206,Irshad Khan,Tajbar Khan,Bajaur,Out of Merit,872,Matric
+1207,Sana Bibi,Gul Habib Jan,Bajaur,Out of Merit,894,Matric
+1208,Asma Aman,Aman ullah khan ,Bajaur,Out of Merit,858,Matric
+1209,Aleena Rashid,Muhammad Rashid,Bajaur,Out of Merit,853,Matric
+1210,Marwa Gul,Gul Zada,Bajaur,Out of Merit,822,Matric
+1211,Sadiqa Bibi,Qabil Said,Bajaur,Out of Merit,812,Matric
+1212,Waheed Ullah,Shahab Uddin,Bajaur,Out of Merit,779,Matric
+1213,Ayesha Bibi,Abdul Hameed,Bajaur,Out of Merit,756,Matric
+1214,Sajid Khan,Ghulam Noor Khan,Bajaur,Out of Merit,749,Matric
+1215,Abdur Rahman,Abdul Mastan,Bajaur,Out of Merit,725,Matric
+1216,Asma Begum,Rahmat Gul,Bajaur,Out of Merit,734,Matric
+1217,Husna Bibi ,Abdul Wali Khan,Bajaur,Out of Merit,837,Matric
+1218,Hazrat Younas,Suleman Khan,Bajaur,Out of Merit,741,Matric
+1219,Tahira Rahim,Muhammad Rahim ,Bajaur,Out of Merit,884,Matric
+1220,Hafsa Bibi,Niaz Muhammad,Bajaur,Out of Merit,755,Matric
+1221,Shafi Ullah,Rahman Said,Bajaur,out of Merit,755,Matric
+1222,Saima Rahman,Rahmani Gul,Bajaur,Out of Merit,997,Matric
+1223,Usman Zia,Zia ul Haq,Bajaur,Out of Merit,993,Matric
+1224,Sumaira Khan,Muhammad Ayaz,Bajaur,Out of Merit,993,Matric
+1225,Murad Ali,Fazal Qadar,Bajaur,Out of Merit,992,Matric
+1226,Nijat Ullah,Sami Ullah,Bajaur,Out of Merit,991,Matric
+1227,Shahid Ullah,Abdul Qayum,Bajaur,Out of Merit,991,Matric
+1228,Muhammad Sajjad,Muhammad Ishaq,Bajaur,Out of Merit,989,Matric
+1229,Shafi Ullah,Said Hassan,Bajaur,Out of Merit,987,Matric
+1230,Miftah Uddin,Sikandar,Bajaur,Out of Merit,986,Matric
+1231,Asia Bibi,Khaista Bibi,Bajaur,Out of Merit,986,Matric
+1232,Nazia Shah,Shah Wazir Khan,Bajaur,Out of Merit,984,Matric
+1233,Akmal Khan,Muhammad Ghufran,Bajaur,Out of Merit,978,Matric
+1234,Bilal Khan,Sher Muhammad,Bajaur,Out of Merit,978,Matric
+1235,Muhammad Zakria ,Muhammad Ibrar,Bajaur,Out of Merit,977,Matric
+1236,Salah Uddin,Ghafoor,Bajaur,Out of Merit,977,Matric
+1237,Faiza Iqbal,Muhammad Iqbal,Bajaur,Out of Merit,973,Matric
+1238,Tariq Jameel,Muhammad Zada,Bajaur,Out of Merit,969,Matric
+1239,Nisar Uddin,Zia ur Rehman,Bajaur,Out of Merit,968,Matric
+1240,Nimra Bibi,Mir Wali Khan,Bajaur,Out of Merit,964,Matric
+1241,Huma Bibi,Yar Muhammad Said,Bajaur,Out of Merit,962,Matric
+1242,Fozia Asleem ,Asleem Khan,Bajaur,Out of Merit,962,Matric
+1243,Talha Yousaf,Hazrat Yousaf,Bajaur,Out of Merit,961,Matric
+1244,Faisal Rahman,Sher Muhammad,Bajaur,Out of Merit,960,Matric
+1245,Tawheed Zia,Zia ul Haq,Bajaur,Out of Merit,954,Matric
+1246,Sheema Bibi,Muhammad Tayyab,Bajaur,Out of Merit,950,Matric
+1247,Sajjad Ahmad,Riaz,Bajaur,Out of Merit,949,Matric
+1248,Irshad Ahmad,Bacha Muhammad,Bajaur,Out of Merit,948,Matric
+1249,Salman Khan,Abdur Rauf Khan,Bajaur,Out of Merit,947,Matric
+1250,Yasar Khan,Abdul Ghani,Bajaur,Out of Merit,944,Matric
+1251,Zahid Khan,Subhan Khan,Bajaur,Out of Merit,944,Matric
+1252,Sundas Shah,Khan Shah,Bajaur,Out of Merit,942,Matric
+1253,Uzma Mughal,Mughal Khan,Bajaur,Out of Merit,940,Matric
+1254,Kainat Bibi,Niaz Wali Khan,Bajaur,Out of Merit,938,Matric
+1255,Hikmat Ullah,Sher Gul,Khyber,Out of Merit,935,Matric
+1256,Saeeda Begum,Fazal Wadood,Bajaur,Out of Merit,935,Matric
+1257,Masih Ullah,Umar Badshah,Bajaur,Out of Merit,931,Matric
+1258,Salah Uddin,Javed Khan,Bajaur,Out of Merit,927,Matric
+1259,Nabia Ali,Ali Bahadar,Bajaur,Out of Merit,927,Matric
+1260,Bushra Bibi,Wali Khan,Bajaur,Out of Merit,925,Matric
+1261,Taskeen Jamil,Jamil Khan,Bajaur,Out of Merit,921,Matric
+1262,Waqas Khan,Wazir Khan,Bajaur,Out of Merit,917,Matric
+1263,Sajjad Ali ,Bakht Zada,Bajaur,Out of Merit,917,Matric
+1264,Ziba Habib,Noor Habib Jan,Bajaur,Out of Merit,916,Matric
+1265,Habib Ullah,Badshah Wazir,Bajaur,Out of Merit,914,Matric
+1266,Abdullah,Muhammad Ullah,Bajaur,Out of Merit,913,Matric
+1267,Jalal Uddin,Ihsan Ullah,Bajaur,Out of Merit,910,Matric
+1268,Kalsoom Said Hakeem,Said Hakeem,Bajaur,Out of Merit,908,Matric
+1269,Sheema Bibi,Masta Khan,Bajaur,Out of Merit,886,Matric
+1270,Kainat Bibi,Sardar Hussain,Bajaur,Out of Merit,754,Matric
+1271,Laiba Khan,Sar Zamin Khan,Bajaur,Out of Merit,841,Matric
+1272,Imdad Ul Haq,Jehan Zeb,Bajaur,Out of Merit,904,Matric
+1273,Ashraf Ullah,Hidayat Ullah,N. Waziristan,Out of Merit,815,Matric
+1274,Naheen Bibi,Fazal Rahim,Bajaur,Out of Merit,875,Matric
+1275,Farida Bibi,Noor Haleem Jan,Bajaur,Out of Merit,968,Matric
+1276,Uzma Bibi,Muhammad Zamin,Bajaur,Out of Merit,873,Matric
+1277,Sapna Bibi,Khan Zaman,Bajaur,Out of Merit,881,Matric
+1278,Zahoor Ahmad,Naimat Ullah,N. Waziristan,Out of Merit,890,Matric
+1279,Rusheed Ullah,Badshah Zada,Bajaur,Out of Merit,992,Matric
+1280,Sana Bibi,Muhammad Jan,Bajaur,Out of Merit,759,Matric
+1281,Khansa Khalil Ahmad,Khalil Ahmad,N. Waziristan,Out of Merit,867,Matric
+1282,Alia Noor Aslam,Noor Aslam,Tank,Out of Merit,949,Matric
+1283,Abdus Samad,Wazir Rahman,Bajaur,Out of Merit,951,Matric
+1284,Aziz Ullah,Shah Wazir Khan,Bajaur,Out of Merit,806,Matric
+1285,Tanzeela Gula Khan,Gula Khan,S. Waziristan,Out of Merit,975,Matric
+1286,Humaira Gula Khan,Gula Khan,S. Waziristan,Out of Merit,954,Matric
+1287,Shahab Khan,Ashaq,Bajaur,Private Student,907,Matric
+1288,Hanif Ullah,Hussain Jan,Bajaur,Out of Merit,952,Matric
+1289,Hamid Ullah,Hayat Shah,Bajaur,Out of Merit,914,Matric
+1290,Ihtiram Khan,Sher Azam Khan,Bajaur,Out of Merit,813,Matric
+1291,Abbas Khan,Gul Zada,Bajaur,Out of Merit,889,Matric
+1292,Laiba Gulab,Hamish Gulab,Bajaur,Out of Merit,936,Matric
+1293,Aziz ul Hakeem,Bakht Munir,Bajaur,Out of Merit,963,Matric
+1294,Jalal Khan,Muhammad Naeem,Bajaur,Out of Merit,778,Matric
+1295,Hussain Ahmad ,Sultan Muhammad,Bajaur,Out of Merit,963,Matric
+1296,Younas Khan,Sardar Khan,Bajaur,Out of Merit,978,Matric
+1297,Abubakar Khan,Abdar Khan,Bajaur,Out of Merit,964,Matric
+1298,Jamal Uddin,Muhammad Naeem,Bajaur,Out of Merit,750,Matric
+1299,Tasbih Ullah,Abdul Wali Khan,Bajaur,Out of Merit,892,Matric
+1300,Sajid Ullah,Yar Gul,Bajaur,Out of Merit,812,Matric
+1301,Shahid Ullah,Zakir Ullah,Bajaur,Out of Merit,855,Matric
+1302,Sabira Bibi,Masood khan ,Bajaur,Out of Merit,871,Matric
+1303,Shahab Ullah,Bacha Hussain,Bajaur,Out of Merit,857,Matric
+1304,Hina Munir,Akhtar Munir,Bajaur,Out of Merit,868,Matric
+1305,Asad Ullah,Muhammad Sabir,Bajaur,Out of Merit,959,Matric
+1306,Sana Bibi,Liaqat Ali,Bajaur,Out of Merit,855,Matric
+1307,Jaweria Khan,Bahadar Khan,Bajaur,Out of Merit,972,Matric
+1308,Sana Ullah,Mashang,Bajaur,Out of Merit,936,Matric
+1309,Rizwan Ullah,Yar Muhammad ,Bajaur,Out of Merit,857,Matric
+1310,Atta ur Rehman,Abdullah,Bajaur,Out of Merit,937,Matric
+1311,Husna Khaista Khan,Khaista Khan,Bajaur,Out of Merit,851,Matric
+1312,Marzia,Ghulam Muhammad,Bajaur,Out of Merit,965,Matric
+1313,Muhammad Ishaq,Shin Gul,Bajaur,Out of Merit,988,Matric
+1314,Najeeb Ullah,Darwesh Khan,Bajaur,Out of Merit,952,Matric
+1315,Shahab Uddin,Hayat Khan,Bajaur,Out of Merit,930,Matric
+1316,Sami Ullah,Taj Khan,Bajaur,Out of Merit,947,Matric
+1317,Raheel Salar,Ahmad Jan,Bajaur,Father CNIC not attached,977,HSSC
+1318,Shabana Bibi,Fazal Haleem Jan,Bajaur,Out of Merit,747,Matric
+1319,Nadia Khan,Khan Pacha,Bajaur,Domicile Deficiency,905,Matric
+1320,Wajid Ullah,Wazir Rahman,Bajaur,Out of Merit,918,Matric
+1321,Sohail Khan,Ayaz Khan,Bajaur,Out of Merit,1000,Matric
+1322,Saeed Ullah,Naimat Ullah Jan,Bajaur,Out of Merit,978,Matric
+1323,Muhammad Yasin,Muhammad Ibrahim,Bajaur,Out of Merit,952,Matric
+1324,Muhammad Ramzan,Shaim Ullah Khan,S. Waziristan,Out of Merit,820,Matric
+,completed,completed,completed,completed,completed,completed
